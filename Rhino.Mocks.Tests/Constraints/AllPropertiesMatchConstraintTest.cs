@@ -4,10 +4,10 @@ using System.Text;
 using System.Collections.Generic;
 using Xunit;
 
-using Rhino.Mocks.Constraints;
+using andri.Mocks.Constraints;
 
 #region TestObjects
-namespace Rhino.Mocks.Tests.AllPropertiesMatchConstraint
+namespace andri.Mocks.Tests.AllPropertiesMatchConstraint
 {
     public class Catalog
     {
@@ -102,11 +102,11 @@ namespace Rhino.Mocks.Tests.AllPropertiesMatchConstraint
 
 #endregion
 
-namespace Rhino.Mocks.Tests.Constraints
+namespace andri.Mocks.Tests.Constraints
 {
 	using System.Globalization;
 	using System.Threading;
-	using Rhino.Mocks.Tests.AllPropertiesMatchConstraint;
+	using andri.Mocks.Tests.AllPropertiesMatchConstraint;
 
     
     public class AllPropertiesMatchConstraintTest : IDisposable
@@ -204,7 +204,7 @@ namespace Rhino.Mocks.Tests.Constraints
             AbstractConstraint sut = Property.AllPropertiesMatch(expectedOrder);
 
             Assert.False(sut.Eval(order));
-            Assert.Equal("Expected value of Order.Product is null, actual value is 'Rhino.Mocks.Tests.AllPropertiesMatchConstraint.Product'", sut.Message);
+            Assert.Equal("Expected value of Order.Product is null, actual value is 'andri.Mocks.Tests.AllPropertiesMatchConstraint.Product'", sut.Message);
         }
 
         [Fact]
@@ -221,7 +221,7 @@ namespace Rhino.Mocks.Tests.Constraints
             AbstractConstraint sut = Property.AllPropertiesMatch(expectedOrder);
 
             Assert.False(sut.Eval(order));
-            Assert.Equal("Expected value of Order.Product is 'Rhino.Mocks.Tests.AllPropertiesMatchConstraint.Product', actual value is null", sut.Message);
+            Assert.Equal("Expected value of Order.Product is 'andri.Mocks.Tests.AllPropertiesMatchConstraint.Product', actual value is null", sut.Message);
         }
 
         [Fact]

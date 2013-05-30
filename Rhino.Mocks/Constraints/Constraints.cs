@@ -35,10 +35,10 @@ using System.Linq.Expressions;
 using System.Reflection;
 using System.Text;
 using System.Text.RegularExpressions;
-using Rhino.Mocks.Impl;
-using Rhino.Mocks.Utilities;
+using andri.Mocks.Impl;
+using andri.Mocks.Utilities;
 
-namespace Rhino.Mocks.Constraints
+namespace andri.Mocks.Constraints
 {
     #region PublicFieldIs
 

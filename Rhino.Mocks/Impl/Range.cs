@@ -27,7 +27,7 @@
 #endregion
 
 
-namespace Rhino.Mocks.Impl
+namespace andri.Mocks.Impl
 {
 	/// <summary>
 	/// Range for expected method calls

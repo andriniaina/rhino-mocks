@@ -1,7 +1,7 @@
 using Xunit;
 using RhinoMocksCPPInterfaces;
 
-namespace Rhino.Mocks.Tests.FieldsProblem
+namespace andri.Mocks.Tests.FieldsProblem
 {
 	
 	public class FieldProblem_Shanon
@@ -24,10 +24,10 @@ StackTrace:
    at Castle.DynamicProxy.ProxyGenerator.CreateInterfaceProxyTypeWithoutTarget(Type theInterface, Type[] interfaces, ProxyGenerationOptions options)
    at Castle.DynamicProxy.ProxyGenerator.CreateInterfaceProxyWithoutTarget(Type theInterface, Type[] interfaces, ProxyGenerationOptions options, IInterceptor[] interceptors)
    at Castle.DynamicProxy.ProxyGenerator.CreateInterfaceProxyWithoutTarget(Type theInterface, Type[] interfaces, IInterceptor[] interceptors)
-   at Rhino.Mocks.MockRepository.MockInterface(CreateMockState mockStateFactory, Type type, Type[] extras)
-   at Rhino.Mocks.MockRepository.CreateMockObject(Type type, CreateMockState factory, Type[] extras, Object[] argumentsForConstructor)
-   at Rhino.Mocks.MockRepository.StrictMock[T](Object[] argumentsForConstructor)
-   at Rhino.Mocks.Tests.FieldsProblem.FieldProblem_Shanon.CanMockInterfaceWithMethodsHavingModOpt() in c:\Documents and Settings\jmeckley\My Documents\Visual Studio 2005\Projects\Rhino-Tools\trunk\rhino-mocks\Rhino.Mocks.Tests\FieldsProblem\FieldProblem_Shanon.cs:line 13")]
+   at andri.Mocks.MockRepository.MockInterface(CreateMockState mockStateFactory, Type type, Type[] extras)
+   at andri.Mocks.MockRepository.CreateMockObject(Type type, CreateMockState factory, Type[] extras, Object[] argumentsForConstructor)
+   at andri.Mocks.MockRepository.StrictMock[T](Object[] argumentsForConstructor)
+   at andri.Mocks.Tests.FieldsProblem.FieldProblem_Shanon.CanMockInterfaceWithMethodsHavingModOpt() in c:\Documents and Settings\jmeckley\My Documents\Visual Studio 2005\Projects\Rhino-Tools\trunk\rhino-mocks\andri.Mocks.Tests\FieldsProblem\FieldProblem_Shanon.cs:line 13")]
 		public void CanMockInterfaceWithMethodsHavingModOpt()
 		{
 			MockRepository mocks = new MockRepository();

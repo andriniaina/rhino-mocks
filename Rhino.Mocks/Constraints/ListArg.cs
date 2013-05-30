@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Collections;
 
-namespace Rhino.Mocks.Constraints
+namespace andri.Mocks.Constraints
 {
 	/// <summary>
 	/// Provides access to the constraints defined in the class <see cref="Text"/> to be used in context

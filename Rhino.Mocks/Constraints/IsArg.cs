@@ -30,7 +30,7 @@ using System;
 using System.ComponentModel;
 using System.Text;
 
-namespace Rhino.Mocks.Constraints
+namespace andri.Mocks.Constraints
 {
 
 	/// <summary>

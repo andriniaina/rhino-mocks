@@ -28,10 +28,10 @@
 
 
 using System.Collections;
-using Rhino.Mocks.MethodRecorders;
-using Rhino.Mocks.Impl;
+using andri.Mocks.MethodRecorders;
+using andri.Mocks.Impl;
 
-namespace Rhino.Mocks.Generated
+namespace andri.Mocks.Generated
 {
 	/// <summary>
 	/// Dictionary

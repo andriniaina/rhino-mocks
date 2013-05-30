@@ -29,9 +29,9 @@
 
 using System;
 using Xunit;
-using Rhino.Mocks.Constraints;
+using andri.Mocks.Constraints;
 
-namespace Rhino.Mocks.Tests.Constraints
+namespace andri.Mocks.Tests.Constraints
 {
 	
 	public class ComparableConstraintsTests

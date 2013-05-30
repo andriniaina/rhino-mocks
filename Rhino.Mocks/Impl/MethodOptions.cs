@@ -29,13 +29,13 @@
 #endregion
 
 using System;
-using Rhino.Mocks.Constraints;
-using Rhino.Mocks.Expectations;
-using Rhino.Mocks.Interfaces;
+using andri.Mocks.Constraints;
+using andri.Mocks.Expectations;
+using andri.Mocks.Interfaces;
 using System.Reflection;
 using System.Collections;
 
-namespace Rhino.Mocks.Impl
+namespace andri.Mocks.Impl
 {
 	/// <summary>
 	/// Allows to define what would happen when a method 

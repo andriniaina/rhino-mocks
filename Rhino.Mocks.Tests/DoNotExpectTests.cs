@@ -26,9 +26,9 @@
 // THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #endregion
 
-using Rhino.Mocks.Exceptions;
+using andri.Mocks.Exceptions;
 
-namespace Rhino.Mocks.Tests
+namespace andri.Mocks.Tests
 {
     using System;
     using Xunit;

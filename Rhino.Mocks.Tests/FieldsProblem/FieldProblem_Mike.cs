@@ -24,7 +24,7 @@
 // OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
 // THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #if DOTNET35
-namespace Rhino.Mocks.Tests.FieldsProblem
+namespace andri.Mocks.Tests.FieldsProblem
 {
 	using Exceptions;
 	using Xunit;

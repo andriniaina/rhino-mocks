@@ -1,6 +1,6 @@
 using Xunit;
 
-namespace Rhino.Mocks.Tests.FieldsProblem
+namespace andri.Mocks.Tests.FieldsProblem
 {
 	using Exceptions;
 

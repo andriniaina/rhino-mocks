@@ -29,7 +29,7 @@
 
 using System;
 
-namespace Rhino.Mocks.Tests.Remoting.Other
+namespace andri.Mocks.Tests.Remoting.Other
 {
 	public interface IDemo
 	{

@@ -78,7 +78,7 @@ task Compile -depends Init {
 task Test -depends Compile {
   $old = pwd
   cd $build_dir
-  &.\Xunit.console.exe "$build_dir\Rhino.Mocks.Tests.dll"
+  &.\Xunit.console.exe "$build_dir\andri.Mocks.Tests.dll"
   if ($lastExitCode -ne 0) {
         throw "Error: Failed to execute tests"
   }
@@ -89,13 +89,13 @@ task Merge {
 	$old = pwd
 	cd $build_dir
 	
-	Remove-Item Rhino.Mocks.Partial.dll -ErrorAction SilentlyContinue 
-	Rename-Item $build_dir\Rhino.Mocks.dll Rhino.Mocks.Partial.dll
+	Remove-Item andri.Mocks.Partial.dll -ErrorAction SilentlyContinue 
+	Rename-Item $build_dir\andri.Mocks.dll andri.Mocks.Partial.dll
 	
-	& $tools_dir\ILMerge.exe Rhino.Mocks.Partial.dll `
+	& $tools_dir\ILMerge.exe andri.Mocks.Partial.dll `
 		Castle.DynamicProxy2.dll `
 		Castle.Core.dll `
-		/out:Rhino.Mocks.dll `
+		/out:andri.Mocks.dll `
 		/t:library `
 		"/keyfile:$base_dir\ayende-open-source.snk" `
 		"/internalize:$base_dir\ilmerge.exclude"
@@ -107,9 +107,9 @@ task Merge {
 
 task Release -depends Test, Merge {
 	& $tools_dir\zip.exe -9 -A -j `
-		$release_dir\Rhino.Mocks-$humanReadableversion-Build-$env:ccnetnumericlabel.zip `
-		$build_dir\Rhino.Mocks.dll `
-		$build_dir\Rhino.Mocks.xml `
+		$release_dir\andri.Mocks-$humanReadableversion-Build-$env:ccnetnumericlabel.zip `
+		$build_dir\andri.Mocks.dll `
+		$build_dir\andri.Mocks.xml `
 		license.txt `
 		acknowledgements.txt
 	if ($lastExitCode -ne 0) {

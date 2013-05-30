@@ -1,8 +1,8 @@
 using System;
 using Castle.Core.Interceptor;
-using Rhino.Mocks.Interfaces;
+using andri.Mocks.Interfaces;
 
-namespace Rhino.Mocks.Impl
+namespace andri.Mocks.Impl
 {
 	/// <summary>
 	/// Doesn't log anything, just makes happy noises

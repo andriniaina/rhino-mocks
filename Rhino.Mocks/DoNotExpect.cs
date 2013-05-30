@@ -28,7 +28,7 @@
 
 using System;
 
-namespace Rhino.Mocks
+namespace andri.Mocks
 {
     /// <summary>
     /// Allows expectations to be set on methods that should never be called.

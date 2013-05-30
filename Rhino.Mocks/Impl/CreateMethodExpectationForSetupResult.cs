@@ -27,9 +27,9 @@
 #endregion
 
 
-using Rhino.Mocks.Interfaces;
+using andri.Mocks.Interfaces;
 
-namespace Rhino.Mocks.Impl
+namespace andri.Mocks.Impl
 {
 	/// <summary>
 	/// Allows to call a method and immediately get it's options.

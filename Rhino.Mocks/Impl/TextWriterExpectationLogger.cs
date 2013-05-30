@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text;
 using Castle.Core.Interceptor;
-using Rhino.Mocks.Interfaces;
-using Rhino.Mocks.Utilities;
+using andri.Mocks.Interfaces;
+using andri.Mocks.Utilities;
 
-namespace Rhino.Mocks.Impl
+namespace andri.Mocks.Impl
 {
 	/// <summary>
 	/// Rudimetry implementation that simply logs methods calls as text.

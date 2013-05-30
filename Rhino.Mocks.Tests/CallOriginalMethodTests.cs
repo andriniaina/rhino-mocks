@@ -28,9 +28,9 @@
 
 
 using System;
-using Rhino.Mocks.Interfaces;
+using andri.Mocks.Interfaces;
 
-namespace Rhino.Mocks.Tests
+namespace andri.Mocks.Tests
 {
     using Xunit;
 

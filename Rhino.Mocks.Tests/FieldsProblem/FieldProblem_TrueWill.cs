@@ -1,9 +1,9 @@
 #if DOTNET35
 using System;
 using Xunit;
-using Rhino.Mocks;
+using andri.Mocks;
 
-namespace Rhino.Mocks.Tests.FieldsProblem
+namespace andri.Mocks.Tests.FieldsProblem
 {
     
     public class FieldProblem_TrueWill

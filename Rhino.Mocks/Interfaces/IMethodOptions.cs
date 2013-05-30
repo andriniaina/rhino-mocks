@@ -30,10 +30,10 @@
 
 using System;
 using Castle.Core.Interceptor;
-using Rhino.Mocks.Constraints;
+using andri.Mocks.Constraints;
 using System.Reflection;
 
-namespace Rhino.Mocks.Interfaces
+namespace andri.Mocks.Interfaces
 {
 	/*
 	 * Interface: IMethodOptions

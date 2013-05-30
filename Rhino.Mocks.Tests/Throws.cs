@@ -1,4 +1,4 @@
-namespace Rhino.Mocks.Tests
+namespace andri.Mocks.Tests
 {
 	using System;
 	using Xunit;

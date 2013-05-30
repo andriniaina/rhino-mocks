@@ -1,7 +1,7 @@
 using System;
 using System.Text;
 
-namespace Rhino.Mocks.Constraints
+namespace andri.Mocks.Constraints
 {
 	/// <summary>
 	/// Provides access to the constraintes defined in the class <see cref="Text"/> to be used in context

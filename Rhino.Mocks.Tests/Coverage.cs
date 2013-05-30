@@ -33,15 +33,15 @@ using System.IO;
 using System.Runtime.Serialization.Formatters.Binary;
 using System.Text;
 using Xunit;
-using Rhino.Mocks.Constraints;
-using Rhino.Mocks.Exceptions;
-using Rhino.Mocks.Expectations;
-using Rhino.Mocks.Impl;
-using Rhino.Mocks.Interfaces;
-using Rhino.Mocks.Tests.Expectations;
-using Rhino.Mocks.Utilities;
+using andri.Mocks.Constraints;
+using andri.Mocks.Exceptions;
+using andri.Mocks.Expectations;
+using andri.Mocks.Impl;
+using andri.Mocks.Interfaces;
+using andri.Mocks.Tests.Expectations;
+using andri.Mocks.Utilities;
 
-namespace Rhino.Mocks.Tests
+namespace andri.Mocks.Tests
 {
 	/// <summary>
 	/// Tests needed to get full coverage

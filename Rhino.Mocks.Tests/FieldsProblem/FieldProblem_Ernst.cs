@@ -29,10 +29,10 @@
 
 using System;
 using Xunit;
-using Rhino.Mocks.Constraints;
-using Rhino.Mocks.Interfaces;
+using andri.Mocks.Constraints;
+using andri.Mocks.Interfaces;
 
-namespace Rhino.Mocks.Tests.FieldsProblem
+namespace andri.Mocks.Tests.FieldsProblem
 {
 	
 	public class FieldProblem_Ernst

@@ -29,10 +29,10 @@
 
 using System;
 using Xunit;
-using Rhino.Mocks.Exceptions;
-using Rhino.Mocks.Interfaces;
+using andri.Mocks.Exceptions;
+using andri.Mocks.Interfaces;
 
-namespace Rhino.Mocks.Tests
+namespace andri.Mocks.Tests
 {
 	
 	public class MockRepositoryTests
@@ -128,7 +128,7 @@ namespace Rhino.Mocks.Tests
         public void CallingVerifyWithoutReplayFirstCauseException()
 		{
 			Assert.Throws<InvalidOperationException>(
-				"This action is invalid when the mock object {Rhino.Mocks.Tests.IDemo} is in record state.",
+				"This action is invalid when the mock object {andri.Mocks.Tests.IDemo} is in record state.",
 				() => mocks.Verify(demo));
 		}
 

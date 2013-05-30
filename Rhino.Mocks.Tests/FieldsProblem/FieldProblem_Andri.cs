@@ -25,11 +25,11 @@
 // OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
 // THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #endregion
-namespace Rhino.Mocks.Tests.FieldsProblem
+namespace andri.Mocks.Tests.FieldsProblem
 {
 	using System;
 	using Xunit;
-	using Rhino.Mocks.Constraints;
+	using andri.Mocks.Constraints;
 
 	
 	public class FieldProblem_Andri
@@ -52,7 +52,7 @@ namespace Rhino.Mocks.Tests.FieldsProblem
 					SetupResult.For(mockFoo.foo(ref three)).OutRef(six).Return(true);
 				}
 
-				Assert.Throws<Rhino.Mocks.Exceptions.ExpectationViolationException>(() => mockFoo.foo(ref six));
+				Assert.Throws<andri.Mocks.Exceptions.ExpectationViolationException>(() => mockFoo.foo(ref six));
 			}
 		}
 

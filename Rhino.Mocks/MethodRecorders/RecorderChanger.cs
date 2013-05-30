@@ -28,9 +28,9 @@
 
 
 using System;
-using Rhino.Mocks.Interfaces;
+using andri.Mocks.Interfaces;
 
-namespace Rhino.Mocks.MethodRecorders
+namespace andri.Mocks.MethodRecorders
 {
 	/// <summary>
 	/// Change the recorder from ordered to unordered and vice versa

@@ -29,10 +29,10 @@
 #if DOTNET35
 
 using Xunit;
-using Rhino.Mocks.Exceptions;
+using andri.Mocks.Exceptions;
 using Xunit.Extensions;
 
-namespace Rhino.Mocks.Tests.FieldsProblem
+namespace andri.Mocks.Tests.FieldsProblem
 {
 	
 	public class FieldProblem_Jodran

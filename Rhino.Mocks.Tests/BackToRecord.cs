@@ -30,11 +30,11 @@
 using System;
 using System.Text;
 using Xunit;
-using Rhino.Mocks.Exceptions;
-using Rhino.Mocks.Interfaces;
-using Rhino.Mocks.Tests.FieldsProblem;
+using andri.Mocks.Exceptions;
+using andri.Mocks.Interfaces;
+using andri.Mocks.Tests.FieldsProblem;
 
-namespace Rhino.Mocks.Tests
+namespace andri.Mocks.Tests
 {
     
     public class BackToRecord

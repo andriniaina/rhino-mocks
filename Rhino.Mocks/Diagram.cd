@@ -91,161 +91,161 @@
   <Comment CommentText="Implementation classes.">
     <Position X="35.382" Y="7.05" Height="0.75" Width="1.7" />
   </Comment>
-  <Class Name="Rhino.Mocks.Constraints.AbstractConstraint" Collapsed="true">
+  <Class Name="andri.Mocks.Constraints.AbstractConstraint" Collapsed="true">
     <Position X="17.75" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <FileName>Constraints\AbstractConstraint.cs</FileName>
       <HashCode>AAAAAAAAIAAAAAAAABACAAAAAAAAAIAAAAAAIAAAAAA=</HashCode>
     </TypeIdentifier>
   </Class>
-  <Class Name="Rhino.Mocks.Constraints.PropertyIs" Collapsed="true">
+  <Class Name="andri.Mocks.Constraints.PropertyIs" Collapsed="true">
     <Position X="4.25" Y="1.75" Width="1.5" />
     <TypeIdentifier>
       <FileName>Constraints\Constraints.cs</FileName>
       <HashCode>AEAAAAAAIAAAAAAAAAAAQAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
     </TypeIdentifier>
   </Class>
-  <Class Name="Rhino.Mocks.Constraints.TypeOf" Collapsed="true">
+  <Class Name="andri.Mocks.Constraints.TypeOf" Collapsed="true">
     <Position X="8.75" Y="1.75" Width="1.5" />
     <TypeIdentifier>
       <FileName>Constraints\Constraints.cs</FileName>
       <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAABAAAAAAAAIAAAAAA=</HashCode>
     </TypeIdentifier>
   </Class>
-  <Class Name="Rhino.Mocks.Constraints.CollectionEqual" Collapsed="true">
+  <Class Name="andri.Mocks.Constraints.CollectionEqual" Collapsed="true">
     <Position X="13.25" Y="1.75" Width="1.5" />
     <TypeIdentifier>
       <FileName>Constraints\Constraints.cs</FileName>
       <HashCode>AAAAAAAAIAAAAAAAAEAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
     </TypeIdentifier>
   </Class>
-  <Class Name="Rhino.Mocks.Constraints.OneOf" Collapsed="true">
+  <Class Name="andri.Mocks.Constraints.OneOf" Collapsed="true">
     <Position X="17.75" Y="1.75" Width="1.5" />
     <TypeIdentifier>
       <FileName>Constraints\Constraints.cs</FileName>
       <HashCode>AAAAAAAAIAAAAAAAAEAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
     </TypeIdentifier>
   </Class>
-  <Class Name="Rhino.Mocks.Constraints.IsIn" Collapsed="true">
+  <Class Name="andri.Mocks.Constraints.IsIn" Collapsed="true">
     <Position X="22.25" Y="1.75" Width="1.5" />
     <TypeIdentifier>
       <FileName>Constraints\Constraints.cs</FileName>
       <HashCode>AAAAAAgAIAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
     </TypeIdentifier>
   </Class>
-  <Class Name="Rhino.Mocks.Constraints.Or" Collapsed="true">
+  <Class Name="andri.Mocks.Constraints.Or" Collapsed="true">
     <Position X="26.75" Y="1.75" Width="1.5" />
     <TypeIdentifier>
       <FileName>Constraints\Constraints.cs</FileName>
       <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAACAAAAAAABAIAAAAAA=</HashCode>
     </TypeIdentifier>
   </Class>
-  <Class Name="Rhino.Mocks.Constraints.Not" Collapsed="true">
+  <Class Name="andri.Mocks.Constraints.Not" Collapsed="true">
     <Position X="31.25" Y="1.75" Width="1.5" />
     <TypeIdentifier>
       <FileName>Constraints\Constraints.cs</FileName>
       <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAABAIAAAAAA=</HashCode>
     </TypeIdentifier>
   </Class>
-  <Class Name="Rhino.Mocks.Constraints.And" Collapsed="true">
+  <Class Name="andri.Mocks.Constraints.And" Collapsed="true">
     <Position X="33.5" Y="1.75" Width="1.5" />
     <TypeIdentifier>
       <FileName>Constraints\Constraints.cs</FileName>
       <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAACAAAAAAABAIAAAAAA=</HashCode>
     </TypeIdentifier>
   </Class>
-  <Class Name="Rhino.Mocks.Constraints.Like" Collapsed="true">
+  <Class Name="andri.Mocks.Constraints.Like" Collapsed="true">
     <Position X="2" Y="1.75" Width="1.5" />
     <TypeIdentifier>
       <FileName>Constraints\Constraints.cs</FileName>
       <HashCode>AAAAAAAAIAAAAAAAAAQAAAAAAAAAEAAAAAAAIAAAAAA=</HashCode>
     </TypeIdentifier>
   </Class>
-  <Class Name="Rhino.Mocks.Constraints.Contains" Collapsed="true">
+  <Class Name="andri.Mocks.Constraints.Contains" Collapsed="true">
     <Position X="6.5" Y="1.75" Width="1.5" />
     <TypeIdentifier>
       <FileName>Constraints\Constraints.cs</FileName>
       <HashCode>AAAAAAAAIAAAAAAAAIAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
     </TypeIdentifier>
   </Class>
-  <Class Name="Rhino.Mocks.Constraints.EndsWith" Collapsed="true">
+  <Class Name="andri.Mocks.Constraints.EndsWith" Collapsed="true">
     <Position X="11" Y="1.75" Width="1.5" />
     <TypeIdentifier>
       <FileName>Constraints\Constraints.cs</FileName>
       <HashCode>AAAAAAACIAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
     </TypeIdentifier>
   </Class>
-  <Class Name="Rhino.Mocks.Constraints.StartsWith" Collapsed="true">
+  <Class Name="andri.Mocks.Constraints.StartsWith" Collapsed="true">
     <Position X="15.5" Y="1.75" Width="1.5" />
     <TypeIdentifier>
       <FileName>Constraints\Constraints.cs</FileName>
       <HashCode>AAAAAAAAIAAAAAAgAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
     </TypeIdentifier>
   </Class>
-  <Class Name="Rhino.Mocks.Constraints.Equal" Collapsed="true">
+  <Class Name="andri.Mocks.Constraints.Equal" Collapsed="true">
     <Position X="20" Y="1.75" Width="1.5" />
     <TypeIdentifier>
       <FileName>Constraints\Constraints.cs</FileName>
       <HashCode>AAAAAAAAIACAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
     </TypeIdentifier>
   </Class>
-  <Class Name="Rhino.Mocks.Constraints.Anything" Collapsed="true">
+  <Class Name="andri.Mocks.Constraints.Anything" Collapsed="true">
     <Position X="24.5" Y="1.75" Width="1.5" />
     <TypeIdentifier>
       <FileName>Constraints\Constraints.cs</FileName>
       <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
     </TypeIdentifier>
   </Class>
-  <Class Name="Rhino.Mocks.Constraints.ComparingConstraint" Collapsed="true">
+  <Class Name="andri.Mocks.Constraints.ComparingConstraint" Collapsed="true">
     <Position X="29" Y="1.75" Width="1.5" />
     <TypeIdentifier>
       <FileName>Constraints\Constraints.cs</FileName>
       <HashCode>AAAAAAAAIAAAAAAAAAAEAAAAAIAAAAQAAAAAIAAAAAA=</HashCode>
     </TypeIdentifier>
   </Class>
-  <Class Name="Rhino.Mocks.Is" Collapsed="true">
+  <Class Name="andri.Mocks.Is" Collapsed="true">
     <Position X="30" Y="4" Width="1.5" />
     <TypeIdentifier>
       <FileName>Constraints\Is.cs</FileName>
       <HashCode>ACAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAIEARRACCA=</HashCode>
     </TypeIdentifier>
   </Class>
-  <Class Name="Rhino.Mocks.List" Collapsed="true">
+  <Class Name="andri.Mocks.List" Collapsed="true">
     <Position X="26.25" Y="4" Width="1.5" />
     <TypeIdentifier>
       <FileName>Constraints\List.cs</FileName>
       <HashCode>AAAAAAAAAAQAAAAAgAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
     </TypeIdentifier>
   </Class>
-  <Class Name="Rhino.Mocks.Property" Collapsed="true">
+  <Class Name="andri.Mocks.Property" Collapsed="true">
     <Position X="28.25" Y="4" Width="1.5" />
     <TypeIdentifier>
       <FileName>Constraints\Property.cs</FileName>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAgEAAAAAA=</HashCode>
     </TypeIdentifier>
   </Class>
-  <Class Name="Rhino.Mocks.Text" Collapsed="true">
+  <Class Name="andri.Mocks.Text" Collapsed="true">
     <Position X="32" Y="4" Width="1.5" />
     <TypeIdentifier>
       <FileName>Constraints\Text.cs</FileName>
       <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZAAA=</HashCode>
     </TypeIdentifier>
   </Class>
-  <Class Name="Rhino.Mocks.Expect" Collapsed="true">
+  <Class Name="andri.Mocks.Expect" Collapsed="true">
     <Position X="26.25" Y="3" Width="1.5" />
     <TypeIdentifier>
       <FileName>Expect.cs</FileName>
       <HashCode>AAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA=</HashCode>
     </TypeIdentifier>
   </Class>
-  <Class Name="Rhino.Mocks.LastCall" Collapsed="true">
+  <Class Name="andri.Mocks.LastCall" Collapsed="true">
     <Position X="30.5" Y="3" Width="1.5" />
     <TypeIdentifier>
       <FileName>LastCall.cs</FileName>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAQIAEAFAQIA=</HashCode>
     </TypeIdentifier>
   </Class>
-  <Class Name="Rhino.Mocks.MockRepository" BaseTypeListCollapsed="true">
+  <Class Name="andri.Mocks.MockRepository" BaseTypeListCollapsed="true">
     <Position X="23.75" Y="6" Width="1.5" />
     <TypeIdentifier>
       <FileName>MockRepository.cs</FileName>
@@ -255,7 +255,7 @@
       <Compartment Name="Fields" Collapsed="true" />
     </Compartments>
     <NestedTypes>
-      <Delegate Name="Rhino.Mocks.MockRepository.CreateMockState" Collapsed="true">
+      <Delegate Name="andri.Mocks.MockRepository.CreateMockState" Collapsed="true">
         <TypeIdentifier>
           <NewMemberFileName>MockRepository.cs</NewMemberFileName>
         </TypeIdentifier>
@@ -263,28 +263,28 @@
     </NestedTypes>
     <Lollipop Position="0.2" Collapsed="true" />
   </Class>
-  <Class Name="Rhino.Mocks.SetupResult" Collapsed="true">
+  <Class Name="andri.Mocks.SetupResult" Collapsed="true">
     <Position X="28.5" Y="3" Width="1.5" />
     <TypeIdentifier>
       <FileName>SetupResult.cs</FileName>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAIA=</HashCode>
     </TypeIdentifier>
   </Class>
-  <Class Name="Rhino.Mocks.Exceptions.ExpectationViolationException" Collapsed="true">
+  <Class Name="andri.Mocks.Exceptions.ExpectationViolationException" Collapsed="true">
     <Position X="33.75" Y="8.25" Width="1.5" />
     <TypeIdentifier>
       <FileName>Exceptions\ExpectationViolationException.cs</FileName>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
     </TypeIdentifier>
   </Class>
-  <Class Name="Rhino.Mocks.Exceptions.ObjectNotMockFromThisRepositoryException" Collapsed="true">
+  <Class Name="andri.Mocks.Exceptions.ObjectNotMockFromThisRepositoryException" Collapsed="true">
     <Position X="33.75" Y="12.25" Width="1.5" />
     <TypeIdentifier>
       <FileName>Exceptions\ObjectNotMockFromThisRepositoryException.cs</FileName>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
     </TypeIdentifier>
   </Class>
-  <Class Name="Rhino.Mocks.Expectations.AbstractExpectation" Collapsed="true">
+  <Class Name="andri.Mocks.Expectations.AbstractExpectation" Collapsed="true">
     <Position X="4" Y="3.5" Width="1.5" />
     <TypeIdentifier>
       <FileName>Expectations\AbstractExpectation.cs</FileName>
@@ -292,56 +292,56 @@
     </TypeIdentifier>
     <Lollipop Position="0.2" />
   </Class>
-  <Class Name="Rhino.Mocks.Expectations.AnyArgsExpectation" Collapsed="true">
+  <Class Name="andri.Mocks.Expectations.AnyArgsExpectation" Collapsed="true">
     <Position X="0.75" Y="4.75" Width="1.5" />
     <TypeIdentifier>
       <FileName>Expectations\AnyArgsExpectation.cs</FileName>
       <HashCode>AQAAAAAAAIAAAAAAgAAAAAAAAAAAEIAAAAAAAAAAAAA=</HashCode>
     </TypeIdentifier>
   </Class>
-  <Class Name="Rhino.Mocks.Expectations.ArgsEqualExpectation" Collapsed="true">
+  <Class Name="andri.Mocks.Expectations.ArgsEqualExpectation" Collapsed="true">
     <Position X="3" Y="4.75" Width="1.5" />
     <TypeIdentifier>
       <FileName>Expectations\ArgsEqualExpectation.cs</FileName>
       <HashCode>AQAAAAAAAIAAAAAAgAAAAAAAAAAAAIAgAAAAIAAAAAA=</HashCode>
     </TypeIdentifier>
   </Class>
-  <Class Name="Rhino.Mocks.Expectations.CallbackExpectation" Collapsed="true">
+  <Class Name="andri.Mocks.Expectations.CallbackExpectation" Collapsed="true">
     <Position X="5.25" Y="4.75" Width="1.5" />
     <TypeIdentifier>
       <FileName>Expectations\CallbackExpectation.cs</FileName>
       <HashCode>AQBAAAAAAIAAAAAAgAAAAAAAAAAAAIAAAEAAAAAAAAA=</HashCode>
     </TypeIdentifier>
   </Class>
-  <Class Name="Rhino.Mocks.Expectations.ConstraintsExpectation" Collapsed="true">
+  <Class Name="andri.Mocks.Expectations.ConstraintsExpectation" Collapsed="true">
     <Position X="7.5" Y="4.75" Width="1.5" />
     <TypeIdentifier>
       <FileName>Expectations\ConstraintsExpectation.cs</FileName>
       <HashCode>AQAAAAAAAIAAAAAAgAAAAAAAAAAAAKAAAAAQAAAAAEA=</HashCode>
     </TypeIdentifier>
   </Class>
-  <Class Name="Rhino.Mocks.Generated.ExpectationsList" Collapsed="true">
+  <Class Name="andri.Mocks.Generated.ExpectationsList" Collapsed="true">
     <Position X="35.5" Y="8.25" Width="1.5" />
     <TypeIdentifier>
       <FileName>Generated\ExpectationsListGenerated.cs</FileName>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
     </TypeIdentifier>
   </Class>
-  <Class Name="Rhino.Mocks.Generated.ProxyMethodExpectationsDictionary" Collapsed="true">
+  <Class Name="andri.Mocks.Generated.ProxyMethodExpectationsDictionary" Collapsed="true">
     <Position X="35.5" Y="10.25" Width="1.5" />
     <TypeIdentifier>
       <FileName>Generated\ProxyMethodExpectationsDictionaryGenerated.cs</FileName>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
     </TypeIdentifier>
   </Class>
-  <Class Name="Rhino.Mocks.Generated.ProxyStateDictionary" Collapsed="true">
+  <Class Name="andri.Mocks.Generated.ProxyStateDictionary" Collapsed="true">
     <Position X="35.5" Y="12.25" Width="1.5" />
     <TypeIdentifier>
       <FileName>Generated\ProxyStateDictionaryGenerated.cs</FileName>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
     </TypeIdentifier>
   </Class>
-  <Class Name="Rhino.Mocks.Impl.CreateMethodExpectation" Collapsed="true">
+  <Class Name="andri.Mocks.Impl.CreateMethodExpectation" Collapsed="true">
     <Position X="3.5" Y="9.5" Width="2.5" />
     <TypeIdentifier>
       <FileName>Impl\CreateMethodExpectation.cs</FileName>
@@ -349,14 +349,14 @@
     </TypeIdentifier>
     <Lollipop Position="0.2" />
   </Class>
-  <Class Name="Rhino.Mocks.Impl.CreateMethodExpectationForSetupResult" Collapsed="true">
+  <Class Name="andri.Mocks.Impl.CreateMethodExpectationForSetupResult" Collapsed="true">
     <Position X="3.5" Y="10.75" Width="3.5" />
     <TypeIdentifier>
       <FileName>Impl\CreateMethodExpectationForSetupResult.cs</FileName>
       <HashCode>AAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
     </TypeIdentifier>
   </Class>
-  <Class Name="Rhino.Mocks.Impl.MethodOptions" Collapsed="true" BaseTypeListCollapsed="true">
+  <Class Name="andri.Mocks.Impl.MethodOptions" Collapsed="true" BaseTypeListCollapsed="true">
     <Position X="33.75" Y="9.25" Width="1.5" />
     <TypeIdentifier>
       <FileName>Impl\MethodOptions.cs</FileName>
@@ -364,7 +364,7 @@
     </TypeIdentifier>
     <Lollipop Position="0.2" Collapsed="true" />
   </Class>
-  <Class Name="Rhino.Mocks.Impl.MockedObjectsEquality" Collapsed="true" BaseTypeListCollapsed="true">
+  <Class Name="andri.Mocks.Impl.MockedObjectsEquality" Collapsed="true" BaseTypeListCollapsed="true">
     <Position X="35.5" Y="9.25" Width="1.5" />
     <TypeIdentifier>
       <FileName>Impl\MockedObjectsEquality.cs</FileName>
@@ -372,7 +372,7 @@
     </TypeIdentifier>
     <Lollipop Position="0.2" Collapsed="true" />
   </Class>
-  <Class Name="Rhino.Mocks.Impl.ProxyInstance" Collapsed="true" BaseTypeListCollapsed="true">
+  <Class Name="andri.Mocks.Impl.ProxyInstance" Collapsed="true" BaseTypeListCollapsed="true">
     <Position X="33.75" Y="10.25" Width="1.5" />
     <TypeIdentifier>
       <FileName>Impl\ProxyInstance.cs</FileName>
@@ -380,21 +380,21 @@
     </TypeIdentifier>
     <Lollipop Position="0.2" Collapsed="true" />
   </Class>
-  <Class Name="Rhino.Mocks.Impl.Range" Collapsed="true">
+  <Class Name="andri.Mocks.Impl.Range" Collapsed="true">
     <Position X="33.75" Y="11.25" Width="1.5" />
     <TypeIdentifier>
       <FileName>Impl\Range.cs</FileName>
       <HashCode>AAAAEAAAABAQAAAEEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
     </TypeIdentifier>
   </Class>
-  <Class Name="Rhino.Mocks.Impl.RecordDynamicMockState" Collapsed="true">
+  <Class Name="andri.Mocks.Impl.RecordDynamicMockState" Collapsed="true">
     <Position X="10.25" Y="7.75" Width="2.25" />
     <TypeIdentifier>
       <FileName>Impl\RecordDynamicMockState.cs</FileName>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
     </TypeIdentifier>
   </Class>
-  <Class Name="Rhino.Mocks.Impl.RecordMockState" Collapsed="true">
+  <Class Name="andri.Mocks.Impl.RecordMockState" Collapsed="true">
     <Position X="11.5" Y="6.5" Width="1.5" />
     <TypeIdentifier>
       <FileName>Impl\RecordMockState.cs</FileName>
@@ -402,21 +402,21 @@
     </TypeIdentifier>
     <Lollipop Position="0.2" />
   </Class>
-  <Class Name="Rhino.Mocks.Impl.RecordPartialMockState" Collapsed="true">
+  <Class Name="andri.Mocks.Impl.RecordPartialMockState" Collapsed="true">
     <Position X="13" Y="7.75" Width="2.5" />
     <TypeIdentifier>
       <FileName>Impl\RecordPartialMockState.cs</FileName>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
     </TypeIdentifier>
   </Class>
-  <Class Name="Rhino.Mocks.Impl.ReplayDynamicMockState" Collapsed="true">
+  <Class Name="andri.Mocks.Impl.ReplayDynamicMockState" Collapsed="true">
     <Position X="7" Y="7.75" Width="2.25" />
     <TypeIdentifier>
       <FileName>Impl\ReplayDynamicMockState.cs</FileName>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
     </TypeIdentifier>
   </Class>
-  <Class Name="Rhino.Mocks.Impl.ReplayMockState" Collapsed="true">
+  <Class Name="andri.Mocks.Impl.ReplayMockState" Collapsed="true">
     <Position X="4.75" Y="6.5" Width="1.5" />
     <TypeIdentifier>
       <FileName>Impl\ReplayMockState.cs</FileName>
@@ -424,14 +424,14 @@
     </TypeIdentifier>
     <Lollipop Position="0.2" Collapsed="true" />
   </Class>
-  <Class Name="Rhino.Mocks.Impl.ReplayPartialMockState" Collapsed="true">
+  <Class Name="andri.Mocks.Impl.ReplayPartialMockState" Collapsed="true">
     <Position X="3.5" Y="7.75" Width="2" />
     <TypeIdentifier>
       <FileName>Impl\ReplayPartialMockState.cs</FileName>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
     </TypeIdentifier>
   </Class>
-  <Class Name="Rhino.Mocks.Impl.RhinoInterceptor" Collapsed="true" BaseTypeListCollapsed="true">
+  <Class Name="andri.Mocks.Impl.RhinoInterceptor" Collapsed="true" BaseTypeListCollapsed="true">
     <Position X="37.25" Y="9.25" Width="1.5" />
     <TypeIdentifier>
       <FileName>Impl\RhinoInterceptor.cs</FileName>
@@ -439,14 +439,14 @@
     </TypeIdentifier>
     <Lollipop Position="0.2" Collapsed="true" />
   </Class>
-  <Class Name="Rhino.Mocks.Impl.Validate" Collapsed="true">
+  <Class Name="andri.Mocks.Impl.Validate" Collapsed="true">
     <Position X="32.5" Y="3" Width="1.5" />
     <TypeIdentifier>
       <FileName>Impl\Validate.cs</FileName>
       <HashCode>AAAAAAAAAAEAAAAAAAAAAAAAAAAAAACAAAAAEAAAAAA=</HashCode>
     </TypeIdentifier>
   </Class>
-  <Class Name="Rhino.Mocks.Impl.VerifiedMockState" Collapsed="true" BaseTypeListCollapsed="true">
+  <Class Name="andri.Mocks.Impl.VerifiedMockState" Collapsed="true" BaseTypeListCollapsed="true">
     <Position X="37.25" Y="12.25" Width="1.5" />
     <TypeIdentifier>
       <FileName>Impl\VerifiedMockState.cs</FileName>
@@ -454,7 +454,7 @@
     </TypeIdentifier>
     <Lollipop Position="0.2" Collapsed="true" />
   </Class>
-  <Class Name="Rhino.Mocks.MethodRecorders.MethodRecorderBase" Collapsed="true">
+  <Class Name="andri.Mocks.MethodRecorders.MethodRecorderBase" Collapsed="true">
     <Position X="0.5" Y="6.5" Width="2" />
     <TypeIdentifier>
       <FileName>MethodRecorders\MethodRecorderBase.cs</FileName>
@@ -462,28 +462,28 @@
     </TypeIdentifier>
     <Lollipop Position="0.2" />
   </Class>
-  <Class Name="Rhino.Mocks.MethodRecorders.OrderedMethodRecorder" Collapsed="true">
+  <Class Name="andri.Mocks.MethodRecorders.OrderedMethodRecorder" Collapsed="true">
     <Position X="0.5" Y="9.25" Width="1.5" />
     <TypeIdentifier>
       <FileName>MethodRecorders\OrderedMethodRecorder.cs</FileName>
       <HashCode>AAAIAAAAAAAAAAAAAAAAAAAAEAAAAAAAAACAAAAAAAA=</HashCode>
     </TypeIdentifier>
   </Class>
-  <Class Name="Rhino.Mocks.MethodRecorders.ProxyMethodExpectationTriplet" Collapsed="true">
+  <Class Name="andri.Mocks.MethodRecorders.ProxyMethodExpectationTriplet" Collapsed="true">
     <Position X="37.25" Y="10.25" Width="1.5" />
     <TypeIdentifier>
       <FileName>MethodRecorders\ProxyMethodExpectationTriplet.cs</FileName>
       <HashCode>AAAAAAAACAAAACgAgAAgAAAAAAAAAICAAAAAgAAAAAA=</HashCode>
     </TypeIdentifier>
   </Class>
-  <Class Name="Rhino.Mocks.MethodRecorders.ProxyMethodPair" Collapsed="true">
+  <Class Name="andri.Mocks.MethodRecorders.ProxyMethodPair" Collapsed="true">
     <Position X="37.25" Y="8.25" Width="1.5" />
     <TypeIdentifier>
       <FileName>MethodRecorders\ProxyMethodPair.cs</FileName>
       <HashCode>AAAAAAAACAAAACgAgAAgAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
     </TypeIdentifier>
   </Class>
-  <Class Name="Rhino.Mocks.MethodRecorders.RecorderChanger" Collapsed="true" BaseTypeListCollapsed="true">
+  <Class Name="andri.Mocks.MethodRecorders.RecorderChanger" Collapsed="true" BaseTypeListCollapsed="true">
     <Position X="35.5" Y="11.25" Width="1.5" />
     <TypeIdentifier>
       <FileName>MethodRecorders\RecorderChanger.cs</FileName>
@@ -491,84 +491,84 @@
     </TypeIdentifier>
     <Lollipop Position="0.2" Collapsed="true" />
   </Class>
-  <Class Name="Rhino.Mocks.MethodRecorders.UnorderedMethodRecorder" Collapsed="true">
+  <Class Name="andri.Mocks.MethodRecorders.UnorderedMethodRecorder" Collapsed="true">
     <Position X="0.5" Y="7.75" Width="1.5" />
     <TypeIdentifier>
       <FileName>MethodRecorders\UnorderedMethodRecorder.cs</FileName>
       <HashCode>AACIAAAAAAAAAAAAAAAIBAQAEAAEAAgBAACIEAgAAAA=</HashCode>
     </TypeIdentifier>
   </Class>
-  <Class Name="Rhino.Mocks.Utilities.MethodCallUtil" Collapsed="true">
+  <Class Name="andri.Mocks.Utilities.MethodCallUtil" Collapsed="true">
     <Position X="34.75" Y="3" Width="1.5" />
     <TypeIdentifier>
       <FileName>Utilities\MethodCallUtil.cs</FileName>
       <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
     </TypeIdentifier>
     <NestedTypes>
-      <Delegate Name="Rhino.Mocks.Utilities.MethodCallUtil.FormatArgumnet" Collapsed="true">
+      <Delegate Name="andri.Mocks.Utilities.MethodCallUtil.FormatArgumnet" Collapsed="true">
         <TypeIdentifier>
           <NewMemberFileName>Utilities\MethodCallUtil.cs</NewMemberFileName>
         </TypeIdentifier>
       </Delegate>
     </NestedTypes>
   </Class>
-  <Class Name="Rhino.Mocks.Utilities.ReturnValueUtil" Collapsed="true">
+  <Class Name="andri.Mocks.Utilities.ReturnValueUtil" Collapsed="true">
     <Position X="37.25" Y="11.25" Width="1.5" />
     <TypeIdentifier>
       <FileName>Utilities\ReturnValueUtil.cs</FileName>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
     </TypeIdentifier>
   </Class>
-  <Interface Name="Rhino.Mocks.Interfaces.ICreateMethodExpectation" Collapsed="true">
+  <Interface Name="andri.Mocks.Interfaces.ICreateMethodExpectation" Collapsed="true">
     <Position X="15.5" Y="3" Width="2" />
     <TypeIdentifier>
       <FileName>Interfaces\ICreateMethodExpectation.cs</FileName>
       <HashCode>AAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
     </TypeIdentifier>
   </Interface>
-  <Interface Name="Rhino.Mocks.Interfaces.IExpectation" Collapsed="true">
+  <Interface Name="andri.Mocks.Interfaces.IExpectation" Collapsed="true">
     <Position X="18.25" Y="3" Width="1.5" />
     <TypeIdentifier>
       <FileName>Interfaces\IExpectation.cs</FileName>
       <HashCode>AQAAAIAQAAIAAABAAAAoAAAEAgAAAAAAAABADAACABA=</HashCode>
     </TypeIdentifier>
   </Interface>
-  <Interface Name="Rhino.Mocks.Interfaces.IMethodOptions" Collapsed="true">
+  <Interface Name="andri.Mocks.Interfaces.IMethodOptions" Collapsed="true">
     <Position X="20" Y="3" Width="1.5" />
     <TypeIdentifier>
       <FileName>Interfaces\IMethodOptions.cs</FileName>
       <HashCode>AAAAAAAAAAAAACAAAAAAAAQACAAAABAAAQIAEAEAQAA=</HashCode>
     </TypeIdentifier>
   </Interface>
-  <Interface Name="Rhino.Mocks.Interfaces.IMethodRecorder" Collapsed="true">
+  <Interface Name="andri.Mocks.Interfaces.IMethodRecorder" Collapsed="true">
     <Position X="21.75" Y="3" Width="1.5" />
     <TypeIdentifier>
       <FileName>Interfaces\IMethodRecorder.cs</FileName>
       <HashCode>EAAAEAAAAAAAAAEAACAAEAACAgQAAAEBBACAAAAABQA=</HashCode>
     </TypeIdentifier>
   </Interface>
-  <Interface Name="Rhino.Mocks.Interfaces.IMockedObject" Collapsed="true">
+  <Interface Name="andri.Mocks.Interfaces.IMockedObject" Collapsed="true">
     <Position X="23.5" Y="3" Width="1.5" />
     <TypeIdentifier>
       <FileName>Interfaces\IMockedObject.cs</FileName>
       <HashCode>AAAAAAIAAAAIAAgAAAAAAAAAAAAAAAAAAAAICQABAAA=</HashCode>
     </TypeIdentifier>
   </Interface>
-  <Interface Name="Rhino.Mocks.Interfaces.IMockState" Collapsed="true">
+  <Interface Name="andri.Mocks.Interfaces.IMockState" Collapsed="true">
     <Position X="15.5" Y="4.25" Width="1.5" />
     <TypeIdentifier>
       <FileName>Interfaces\IMockState.cs</FileName>
       <HashCode>AAAAAAAAIAAAAQAAAAAAAAAAAAAgAAAAAQAAAAAAAQA=</HashCode>
     </TypeIdentifier>
   </Interface>
-  <Interface Name="Rhino.Mocks.Interfaces.IRepeat" Collapsed="true">
+  <Interface Name="andri.Mocks.Interfaces.IRepeat" Collapsed="true">
     <Position X="18.25" Y="4.25" Width="1.5" />
     <TypeIdentifier>
       <FileName>Interfaces\IRepeat.cs</FileName>
       <HashCode>IAAAAAAAAAAAAAAAAAEAAAAAAAwAAAIAAAAAAAAAAAA=</HashCode>
     </TypeIdentifier>
   </Interface>
-  <Enum Name="Rhino.Mocks.Impl.RepeatableOption">
+  <Enum Name="andri.Mocks.Impl.RepeatableOption">
     <Position X="15.5" Y="5.5" Width="1.5" />
     <TypeIdentifier>
       <FileName>Impl\RepeatableOption.cs</FileName>

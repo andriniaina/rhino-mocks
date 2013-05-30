@@ -2,7 +2,7 @@
 using Xunit;
 
 
-namespace Rhino.Mocks.Tests
+namespace andri.Mocks.Tests
 {
 	
 	public class WhenCalledTests

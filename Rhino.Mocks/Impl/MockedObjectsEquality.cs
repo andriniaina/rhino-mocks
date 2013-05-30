@@ -30,10 +30,10 @@
 using System;
 using System.Collections;
 using System.Threading;
-using Rhino.Mocks.Interfaces;
+using andri.Mocks.Interfaces;
 using System.Collections.Generic;
 
-namespace Rhino.Mocks.Impl
+namespace andri.Mocks.Impl
 {
 	/// <summary>
 	/// This class will provide hash code for hashtables without needing

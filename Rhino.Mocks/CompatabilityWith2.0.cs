@@ -1,4 +1,4 @@
-namespace Rhino.Mocks
+namespace andri.Mocks
 {
     using System;
     /// <summary>

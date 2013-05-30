@@ -32,11 +32,11 @@ using System.IO;
 using System.Reflection;
 using System.Security.Permissions;
 using Xunit;
-using Rhino.Mocks.Exceptions;
+using andri.Mocks.Exceptions;
 [assembly:EnvironmentPermission(SecurityAction.RequestMinimum)]
 
 
-namespace Rhino.Mocks.Tests.Remoting
+namespace andri.Mocks.Tests.Remoting
 {
 
 	/// <summary>

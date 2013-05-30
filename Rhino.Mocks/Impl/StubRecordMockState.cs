@@ -30,9 +30,9 @@
 
 using System;
 using System.Reflection;
-using Rhino.Mocks.Interfaces;
+using andri.Mocks.Interfaces;
 
-namespace Rhino.Mocks.Impl
+namespace andri.Mocks.Impl
 {
 	/// <summary>
 	/// Behave like a stub, all properties and events acts normally, methods calls

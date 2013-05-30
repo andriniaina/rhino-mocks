@@ -1,4 +1,4 @@
-namespace Rhino.Mocks.Tests.Model
+namespace andri.Mocks.Tests.Model
 {
 	internal interface IInternal
 	{

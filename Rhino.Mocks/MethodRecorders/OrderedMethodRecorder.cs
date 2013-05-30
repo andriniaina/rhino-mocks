@@ -30,12 +30,12 @@
 using System.Reflection;
 using System.Text;
 using Castle.Core.Interceptor;
-using Rhino.Mocks.Exceptions;
-using Rhino.Mocks.Interfaces;
-using Rhino.Mocks.Utilities;
-using Rhino.Mocks.Impl;
+using andri.Mocks.Exceptions;
+using andri.Mocks.Interfaces;
+using andri.Mocks.Utilities;
+using andri.Mocks.Impl;
 
-namespace Rhino.Mocks.MethodRecorders
+namespace andri.Mocks.MethodRecorders
 {
 	using Generated;
 

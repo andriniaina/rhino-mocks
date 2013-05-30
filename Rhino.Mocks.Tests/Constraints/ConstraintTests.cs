@@ -30,12 +30,12 @@
 using System;
 using System.Data;
 using Xunit;
-using Rhino.Mocks.Constraints;
-using Rhino.Mocks.Exceptions;
-using Rhino.Mocks.Impl;
-using Rhino.Mocks.Tests.Callbacks;
+using andri.Mocks.Constraints;
+using andri.Mocks.Exceptions;
+using andri.Mocks.Impl;
+using andri.Mocks.Tests.Callbacks;
 
-namespace Rhino.Mocks.Tests.Constraints
+namespace andri.Mocks.Tests.Constraints
 {
 	
 	public class ConstraintTests

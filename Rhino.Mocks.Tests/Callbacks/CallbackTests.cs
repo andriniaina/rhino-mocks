@@ -30,10 +30,10 @@
 using System;
 using System.Runtime.InteropServices;
 using Xunit;
-using Rhino.Mocks.Constraints;
-using Rhino.Mocks.Exceptions;
+using andri.Mocks.Constraints;
+using andri.Mocks.Exceptions;
 
-namespace Rhino.Mocks.Tests.Callbacks
+namespace andri.Mocks.Tests.Callbacks
 {
 	
 	public class CallbackTests

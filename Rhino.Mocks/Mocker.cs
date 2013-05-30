@@ -31,7 +31,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Rhino.Mocks
+namespace andri.Mocks
 {
     /// <summary>
     /// Accessor for the current mocker

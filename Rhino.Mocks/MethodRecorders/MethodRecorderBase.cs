@@ -31,13 +31,13 @@ using System;
 using System.Diagnostics;
 using System.Reflection;
 using Castle.Core.Interceptor;
-using Rhino.Mocks.Exceptions;
-using Rhino.Mocks.Generated;
-using Rhino.Mocks.Impl;
-using Rhino.Mocks.Interfaces;
+using andri.Mocks.Exceptions;
+using andri.Mocks.Generated;
+using andri.Mocks.Impl;
+using andri.Mocks.Interfaces;
 using System.Collections;
 
-namespace Rhino.Mocks.MethodRecorders
+namespace andri.Mocks.MethodRecorders
 {
 	/// <summary>
 	/// Base class for method recorders, handle delegating to inner recorder if needed.

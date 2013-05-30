@@ -1,6 +1,6 @@
-namespace Rhino.Mocks.Impl.RemotingMock
+namespace andri.Mocks.Impl.RemotingMock
 {
-    using Rhino.Mocks.Interfaces;
+    using andri.Mocks.Interfaces;
 
     class RemotingProxyMockedObjectGetter : IRemotingProxyOperation
     {

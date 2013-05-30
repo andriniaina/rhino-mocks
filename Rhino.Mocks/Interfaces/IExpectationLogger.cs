@@ -28,7 +28,7 @@
 
 using Castle.Core.Interceptor;
 
-namespace Rhino.Mocks.Interfaces
+namespace andri.Mocks.Interfaces
 {
 	/// <summary>
 	/// Log expectations - allows to see what is going on inside Rhino Mocks

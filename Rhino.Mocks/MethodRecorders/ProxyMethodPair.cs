@@ -31,9 +31,9 @@ using System;
 using System.Globalization;
 using System.Reflection;
 
-using Rhino.Mocks.Impl;
+using andri.Mocks.Impl;
 
-namespace Rhino.Mocks.MethodRecorders
+namespace andri.Mocks.MethodRecorders
 {
 	/// <summary>
 	/// Holds a pair of mocked object and a method

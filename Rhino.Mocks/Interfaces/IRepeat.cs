@@ -27,7 +27,7 @@
 #endregion
 
 
-namespace Rhino.Mocks.Interfaces
+namespace andri.Mocks.Interfaces
 {
 	/*
 	 * interface: IRepeat

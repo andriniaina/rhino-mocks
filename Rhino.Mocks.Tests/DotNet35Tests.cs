@@ -1,7 +1,7 @@
 #if DOTNET35
 using Xunit;
 
-namespace Rhino.Mocks.Tests
+namespace andri.Mocks.Tests
 {
 	using System;
 	using Exceptions;

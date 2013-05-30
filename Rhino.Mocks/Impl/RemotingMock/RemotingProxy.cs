@@ -1,11 +1,11 @@
-namespace Rhino.Mocks.Impl.RemotingMock
+namespace andri.Mocks.Impl.RemotingMock
 {
     using System;
     using System.Reflection;
     using System.Runtime.Remoting.Messaging;
     using System.Runtime.Remoting.Proxies;
     using Castle.Core.Interceptor;
-    using Rhino.Mocks.Interfaces;
+    using andri.Mocks.Interfaces;
 
     internal class RemotingProxy : RealProxy
     {

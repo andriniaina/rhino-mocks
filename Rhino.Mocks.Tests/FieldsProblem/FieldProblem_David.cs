@@ -32,7 +32,7 @@ using System.Text;
 using Xunit;
 using System.Web.UI;
 
-namespace Rhino.Mocks.Tests.FieldsProblem
+namespace andri.Mocks.Tests.FieldsProblem
 {
     
     public class FieldProblem_David

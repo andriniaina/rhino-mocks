@@ -31,10 +31,10 @@ using System.Collections.Generic;
 //using System.Linq;
 using System.Text;
 using System.Collections;
-using Rhino.Mocks.Constraints;
+using andri.Mocks.Constraints;
 using System.Reflection;
 
-namespace Rhino.Mocks
+namespace andri.Mocks
 {
 
 	/// <summary>

@@ -32,7 +32,7 @@ using System.Data;
 using System.Text;
 using Xunit;
 
-namespace Rhino.Mocks.Tests.FieldsProblem
+namespace andri.Mocks.Tests.FieldsProblem
 {
 	/// <summary>
 	/// Summary description for Bug_45.

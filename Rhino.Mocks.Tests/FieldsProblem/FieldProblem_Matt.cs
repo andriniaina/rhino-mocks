@@ -31,9 +31,9 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 using Xunit;
-using Rhino.Mocks.Interfaces;
+using andri.Mocks.Interfaces;
 
-namespace Rhino.Mocks.Tests.FieldsProblem
+namespace andri.Mocks.Tests.FieldsProblem
 {
     
     public class FieldProblem_Matt

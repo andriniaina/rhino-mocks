@@ -31,10 +31,10 @@ using System;
 using System.Globalization;
 using System.Reflection;
 
-using Rhino.Mocks.Impl;
-using Rhino.Mocks.Interfaces;
+using andri.Mocks.Impl;
+using andri.Mocks.Interfaces;
 
-namespace Rhino.Mocks.MethodRecorders
+namespace andri.Mocks.MethodRecorders
 {
 	/// <summary>
 	/// Hold an expectation for a method call on an object

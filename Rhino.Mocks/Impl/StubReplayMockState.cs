@@ -28,10 +28,10 @@
 
 using System.Reflection;
 using Castle.Core.Interceptor;
-using Rhino.Mocks.Interfaces;
-using Rhino.Mocks.Utilities;
+using andri.Mocks.Interfaces;
+using andri.Mocks.Utilities;
 
-namespace Rhino.Mocks.Impl
+namespace andri.Mocks.Impl
 {
 	/// <summary>
 	/// Validate expectations on recorded methods, but in general completely ignoring them.

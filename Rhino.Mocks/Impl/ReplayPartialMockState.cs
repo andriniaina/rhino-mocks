@@ -30,11 +30,11 @@
 using System;
 using System.Reflection;
 using Castle.Core.Interceptor;
-using Rhino.Mocks.Interfaces;
-using Rhino.Mocks.Utilities;
+using andri.Mocks.Interfaces;
+using andri.Mocks.Utilities;
 using Castle.DynamicProxy;
 
-namespace Rhino.Mocks.Impl
+namespace andri.Mocks.Impl
 {
 	/// <summary>
 	/// Validate all expectations on a mock and ignores calls to

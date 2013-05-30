@@ -30,7 +30,7 @@
 using System;
 using System.Runtime.Serialization;
 
-namespace Rhino.Mocks.Exceptions
+namespace andri.Mocks.Exceptions
 {
 	/*
 	 * Class: ObjectNotMockFromThisRepositoryException

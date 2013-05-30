@@ -29,10 +29,10 @@
 
 using System.Reflection;
 using Castle.Core.Interceptor;
-using Rhino.Mocks.Exceptions;
-using Rhino.Mocks.Generated;
+using andri.Mocks.Exceptions;
+using andri.Mocks.Generated;
 
-namespace Rhino.Mocks.Interfaces
+namespace andri.Mocks.Interfaces
 {
 	/// <summary>
 	/// Records the actions on all the mocks created by a repository.

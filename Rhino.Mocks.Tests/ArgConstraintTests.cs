@@ -30,14 +30,14 @@
 using System;
 using System.Data;
 using Xunit;
-using Rhino.Mocks;
-using Rhino.Mocks.Constraints;
-using Rhino.Mocks.Exceptions;
-using Rhino.Mocks.Impl;
-using Rhino.Mocks.Tests.Callbacks;
+using andri.Mocks;
+using andri.Mocks.Constraints;
+using andri.Mocks.Exceptions;
+using andri.Mocks.Impl;
+using andri.Mocks.Tests.Callbacks;
 using System.Collections.Generic;
 
-namespace Rhino.Mocks.Tests
+namespace andri.Mocks.Tests
 {
 	// Interface to create mocks for
 	public interface ITestInterface

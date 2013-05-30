@@ -1,6 +1,6 @@
 using System;
 
-namespace Rhino.Mocks
+namespace andri.Mocks
 {
     /// <summary>
     /// What should BackToRecord clear

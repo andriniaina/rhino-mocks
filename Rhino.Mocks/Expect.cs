@@ -28,10 +28,10 @@
 
 
 using System;
-using Rhino.Mocks.Impl;
-using Rhino.Mocks.Interfaces;
+using andri.Mocks.Impl;
+using andri.Mocks.Interfaces;
 
-namespace Rhino.Mocks
+namespace andri.Mocks
 {
 	/*
 	 * class: Expect

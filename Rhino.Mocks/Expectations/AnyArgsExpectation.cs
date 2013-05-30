@@ -30,11 +30,11 @@
 using System;
 using System.Reflection;
 using Castle.Core.Interceptor;
-using Rhino.Mocks.Impl;
-using Rhino.Mocks.Interfaces;
-using Rhino.Mocks.Utilities;
+using andri.Mocks.Impl;
+using andri.Mocks.Interfaces;
+using andri.Mocks.Utilities;
 
-namespace Rhino.Mocks.Expectations
+namespace andri.Mocks.Expectations
 {
 	/// <summary>
 	/// Expectation that matches any arguments for the method.

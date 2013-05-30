@@ -36,31 +36,31 @@ using System.Reflection;
 using System.Text;
 using Castle.Core.Interceptor;
 using Castle.DynamicProxy;
-using Rhino.Mocks.Exceptions;
-using Rhino.Mocks.Generated;
-using Rhino.Mocks.Impl;
-using Rhino.Mocks.Impl.Invocation;
-using Rhino.Mocks.Impl.RemotingMock;
-using Rhino.Mocks.Interfaces;
-using Rhino.Mocks.MethodRecorders;
+using andri.Mocks.Exceptions;
+using andri.Mocks.Generated;
+using andri.Mocks.Impl;
+using andri.Mocks.Impl.Invocation;
+using andri.Mocks.Impl.RemotingMock;
+using andri.Mocks.Interfaces;
+using andri.Mocks.MethodRecorders;
 
-namespace Rhino.Mocks
+namespace andri.Mocks
 {
     /*
      * class: MockRepository
      * The MockRepository is the main interaction point with Rhino Mocks.
      * 
-     * Common usage pattern is to create the <Rhino.Mocks.MockRepository> on [SetUp]
-     * and then create mock objects using either <Rhino.Mocks.MockRepository.CreateMock> or
-     * <Rhino.Mocks.MockRepository.DynamicMock> and setup expectations on the mock object(s) by
-     * callling their methods. A call to <Rhino.Mocks.MockRepository.ReplayAll> would move the mock
-     * object(s) to replay state, a call to <Rhino.Mocks.MockRepository.VerifyAll> is made from the 
+     * Common usage pattern is to create the <andri.Mocks.MockRepository> on [SetUp]
+     * and then create mock objects using either <andri.Mocks.MockRepository.CreateMock> or
+     * <andri.Mocks.MockRepository.DynamicMock> and setup expectations on the mock object(s) by
+     * callling their methods. A call to <andri.Mocks.MockRepository.ReplayAll> would move the mock
+     * object(s) to replay state, a call to <andri.Mocks.MockRepository.VerifyAll> is made from the 
      * [TearDown] method.
      * 
      * Thread Safety:
      * MockRepository is capable of verifying in multiply threads, but recording in multiply threads
-     * is not recommended. If you need to do so you _must_ use the <Rhino.Mocks.Expect.On> and 
-     * <Rhino.Mocks.LastCall.On> methods and not <Rhino.Mocks.Expect.Call> and 
+     * is not recommended. If you need to do so you _must_ use the <andri.Mocks.Expect.On> and 
+     * <andri.Mocks.LastCall.On> methods and not <andri.Mocks.Expect.Call> and 
      * <LastCall>'s various methods. 
      * 
      * Code Sample:
@@ -98,10 +98,10 @@ namespace Rhino.Mocks
      *  - Create and manage mock object throughout their life time
      *     
      * See Also:
-     * - <Rhino.Mocks.MockRepository.CreateMock>
-     * - <Rhino.Mocks.MockRepository.DynamicMock>
-     * - <Rhino.Mocks.MockRepository.ReplayAll>
-     * - <Rhino.Mocks.MockRepository.VerifyAll>
+     * - <andri.Mocks.MockRepository.CreateMock>
+     * - <andri.Mocks.MockRepository.DynamicMock>
+     * - <andri.Mocks.MockRepository.ReplayAll>
+     * - <andri.Mocks.MockRepository.VerifyAll>
     */
 
     /// <summary>

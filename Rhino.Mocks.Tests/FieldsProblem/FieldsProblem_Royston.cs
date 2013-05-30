@@ -31,9 +31,9 @@ using System;
 using System.Text;
 
 using Xunit;
-using Rhino.Mocks;
+using andri.Mocks;
 
-namespace Rhino.Mocks.Tests.FieldsProblem
+namespace andri.Mocks.Tests.FieldsProblem
 {
     
     public class FieldsProblem_Royston

@@ -3,9 +3,9 @@ using System;
 using System.Collections;
 using System.Linq;
 using Xunit;
-using Rhino.Mocks.Impl;
+using andri.Mocks.Impl;
 
-namespace Rhino.Mocks.Tests
+namespace andri.Mocks.Tests
 {
     
     public class RecursiveMocks

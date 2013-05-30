@@ -28,9 +28,9 @@
 
 
 using Xunit;
-using Rhino.Mocks.Utilities;
+using andri.Mocks.Utilities;
 
-namespace Rhino.Mocks.Tests.Utilities
+namespace andri.Mocks.Tests.Utilities
 {
 	
 	public class ReturnValueUtilTests

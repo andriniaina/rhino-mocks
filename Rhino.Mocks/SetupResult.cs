@@ -27,10 +27,10 @@
 #endregion
 
 
-using Rhino.Mocks.Impl;
-using Rhino.Mocks.Interfaces;
+using andri.Mocks.Impl;
+using andri.Mocks.Interfaces;
 
-namespace Rhino.Mocks
+namespace andri.Mocks
 {
 	/// <summary>
 	/// Setup method calls to repeat any number of times.

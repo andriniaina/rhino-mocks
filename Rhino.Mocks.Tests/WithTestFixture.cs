@@ -29,9 +29,9 @@
 
 using System;
 using Xunit;
-using Rhino.Mocks.Exceptions;
+using andri.Mocks.Exceptions;
 
-namespace Rhino.Mocks.Tests
+namespace andri.Mocks.Tests
 {
     
     public class WithTestFixture
@@ -87,7 +87,7 @@ namespace Rhino.Mocks.Tests
         public void UsingTheWithMocksConstruct_ThrowsIfReplayAllNotCalled()
         {
         	Assert.Throws<InvalidOperationException>(
-        		"This action is invalid when the mock object {Rhino.Mocks.Tests.IDemo} is in record state.",
+        		"This action is invalid when the mock object {andri.Mocks.Tests.IDemo} is in record state.",
         		() =>
         		{
         			With.Mocks(delegate

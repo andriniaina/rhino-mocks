@@ -1,4 +1,4 @@
-namespace Rhino.Mocks.GettingStarted
+namespace andri.Mocks.GettingStarted
 {
     public static class Helpers
     {

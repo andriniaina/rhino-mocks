@@ -1,9 +1,9 @@
-namespace Rhino.Mocks.Tests.FieldsProblem
+namespace andri.Mocks.Tests.FieldsProblem
 {
 	using System;
 	using System.Collections.Generic;
 	using Xunit;
-	using Rhino.Mocks.Constraints;
+	using andri.Mocks.Constraints;
 
 	
 	public class FieldProblem_Lee

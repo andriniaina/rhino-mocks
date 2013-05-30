@@ -31,7 +31,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Rhino.Mocks
+namespace andri.Mocks
 {
     /// <summary>
     /// Allows easier access to MockRepository, works closely with Mocker.Current to

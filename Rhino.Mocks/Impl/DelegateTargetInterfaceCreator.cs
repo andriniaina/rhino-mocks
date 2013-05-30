@@ -34,7 +34,7 @@ using System.Reflection.Emit;
 using System.Threading;
 using Castle.DynamicProxy;
 
-namespace Rhino.Mocks.Impl
+namespace andri.Mocks.Impl
 {
     /// <summary>
     /// This class is reponsible for taking a delegate and creating a wrapper

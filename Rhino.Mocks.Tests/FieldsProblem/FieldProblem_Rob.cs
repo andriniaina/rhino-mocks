@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using Xunit;
 
-namespace Rhino.Mocks.Tests.FieldsProblem
+namespace andri.Mocks.Tests.FieldsProblem
 {
 	using Exceptions;
 
@@ -38,8 +38,8 @@ namespace Rhino.Mocks.Tests.FieldsProblem
 			}
 
 			Assert.Throws<ExpectationViolationException>(
-				@"ISomeSystem.GetFooFor<Rhino.Mocks.Tests.FieldsProblem.UnexpectedBar>(""foo""); Expected #1, Actual #1.
-ISomeSystem.GetFooFor<Rhino.Mocks.Tests.FieldsProblem.ExpectedBar>(""foo""); Expected #1, Actual #0.",
+				@"ISomeSystem.GetFooFor<andri.Mocks.Tests.FieldsProblem.UnexpectedBar>(""foo""); Expected #1, Actual #1.
+ISomeSystem.GetFooFor<andri.Mocks.Tests.FieldsProblem.ExpectedBar>(""foo""); Expected #1, Actual #0.",
 				() =>
 				{
 					using (mocks.Playback())

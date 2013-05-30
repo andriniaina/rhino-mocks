@@ -1,7 +1,7 @@
 using Castle.Core.Interceptor;
-using Rhino.Mocks.Interfaces;
+using andri.Mocks.Interfaces;
 
-namespace Rhino.Mocks.Impl.Invocation.Actions
+namespace andri.Mocks.Impl.Invocation.Actions
 {
     ///<summary>
     ///</summary>

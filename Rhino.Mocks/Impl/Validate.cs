@@ -29,11 +29,11 @@
 
 using System;
 using System.Linq.Expressions;
-using Rhino.Mocks.Interfaces;
+using andri.Mocks.Interfaces;
 using System.Reflection;
 using System.Collections;
 
-namespace Rhino.Mocks.Impl
+namespace andri.Mocks.Impl
 {
 	/// <summary>
 	/// Validate arguments for methods

@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Reflection;
 using Castle.Core.Interceptor;
-using Rhino.Mocks.Constraints;
-using Rhino.Mocks.Expectations;
-using Rhino.Mocks.Interfaces;
+using andri.Mocks.Constraints;
+using andri.Mocks.Expectations;
+using andri.Mocks.Interfaces;
 
-namespace Rhino.Mocks.Impl
+namespace andri.Mocks.Impl
 {
     /// <summary>
     /// Responsible for building expectations

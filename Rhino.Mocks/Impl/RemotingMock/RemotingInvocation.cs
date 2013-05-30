@@ -1,6 +1,6 @@
 using System;
 
-namespace Rhino.Mocks.Impl.RemotingMock
+namespace andri.Mocks.Impl.RemotingMock
 {
     using System;
     using System.Reflection;

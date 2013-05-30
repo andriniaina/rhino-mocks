@@ -31,11 +31,11 @@ using System;
 using System.Reflection;
 using System.Text;
 using Castle.Core.Interceptor;
-using Rhino.Mocks.Exceptions;
-using Rhino.Mocks.Interfaces;
+using andri.Mocks.Exceptions;
+using andri.Mocks.Interfaces;
 using Castle.DynamicProxy;
 
-namespace Rhino.Mocks.Impl
+namespace andri.Mocks.Impl
 {
 	/// <summary>
 	/// Validate all expectations on a mock

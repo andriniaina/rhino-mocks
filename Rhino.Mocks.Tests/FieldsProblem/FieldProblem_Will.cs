@@ -5,7 +5,7 @@ using System.ServiceModel;
 using System.ServiceModel.Description;
 using Xunit;
 
-namespace Rhino.Mocks.Tests.FieldsProblem
+namespace andri.Mocks.Tests.FieldsProblem
 {
     
     public class FieldProblem_Will

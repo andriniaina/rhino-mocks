@@ -31,13 +31,13 @@ using System.Collections;
 using System.Reflection;
 using System.Text;
 using Castle.Core.Interceptor;
-using Rhino.Mocks.Exceptions;
-using Rhino.Mocks.Impl;
-using Rhino.Mocks.Interfaces;
-using Rhino.Mocks.Generated;
-using Rhino.Mocks.Utilities;
+using andri.Mocks.Exceptions;
+using andri.Mocks.Impl;
+using andri.Mocks.Interfaces;
+using andri.Mocks.Generated;
+using andri.Mocks.Utilities;
 
-namespace Rhino.Mocks.MethodRecorders
+namespace andri.Mocks.MethodRecorders
 {
 	/// <summary>
 	/// Unordered collection of method records, any expectation that exist

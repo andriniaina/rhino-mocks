@@ -31,10 +31,10 @@ using System;
 using System.IO;
 using System.Reflection;
 using Xunit;
-using Rhino.Mocks.Exceptions;
-using Rhino.Mocks.Interfaces;
+using andri.Mocks.Exceptions;
+using andri.Mocks.Interfaces;
 
-namespace Rhino.Mocks.Tests
+namespace andri.Mocks.Tests
 {
     public delegate object ObjectDelegateWithNoParams();
 

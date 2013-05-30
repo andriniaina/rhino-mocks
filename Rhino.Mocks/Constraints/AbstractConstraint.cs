@@ -27,7 +27,7 @@
 #endregion
 
 
-namespace Rhino.Mocks.Constraints
+namespace andri.Mocks.Constraints
 {
 	/// <summary>
 	/// Interface for constraints

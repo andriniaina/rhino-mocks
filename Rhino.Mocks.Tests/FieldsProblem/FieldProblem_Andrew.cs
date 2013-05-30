@@ -1,10 +1,10 @@
-namespace Rhino.Mocks.Tests.FieldsProblem
+namespace andri.Mocks.Tests.FieldsProblem
 {
 	using System;
 	using System.Data;
 	using Exceptions;
 	using Xunit;
-	using Rhino.Mocks;
+	using andri.Mocks;
 
 	
 	public class FieldProblem_Andrew

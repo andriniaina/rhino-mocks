@@ -28,10 +28,10 @@
 
 
 using System;
-using Rhino.Mocks.Constraints;
-using Rhino.Mocks.Interfaces;
+using andri.Mocks.Constraints;
+using andri.Mocks.Interfaces;
 
-namespace Rhino.Mocks
+namespace andri.Mocks
 {
 	/*
 	 * Class: LastCall

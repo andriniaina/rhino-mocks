@@ -31,7 +31,7 @@ using System;
 using System.Reflection;
 using Castle.Core.Interceptor;
 
-namespace Rhino.Mocks.Interfaces
+namespace andri.Mocks.Interfaces
 {
 	/// <summary>
 	/// Different actions on this mock

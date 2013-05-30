@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Rhino.Mocks.Impl.RemotingMock
+namespace andri.Mocks.Impl.RemotingMock
 {
     /// <summary>
     /// Operation on a remoting proxy

@@ -1,8 +1,8 @@
 using System.Collections.Generic;
-using Rhino.Mocks.Generated;
-using Rhino.Mocks.Interfaces;
+using andri.Mocks.Generated;
+using andri.Mocks.Interfaces;
 
-namespace Rhino.Mocks
+namespace andri.Mocks
 {
 	internal class ExpectationVerificationInformation
 	{

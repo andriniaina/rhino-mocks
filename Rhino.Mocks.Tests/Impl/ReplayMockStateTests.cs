@@ -30,13 +30,13 @@
 using System;
 using System.Reflection;
 using Xunit;
-using Rhino.Mocks.Exceptions;
-using Rhino.Mocks.Impl;
-using Rhino.Mocks.Tests.Expectations;
-using Rhino.Mocks.Tests.Utilities;
+using andri.Mocks.Exceptions;
+using andri.Mocks.Impl;
+using andri.Mocks.Tests.Expectations;
+using andri.Mocks.Tests.Utilities;
 using Castle.Core.Interceptor;
 
-namespace Rhino.Mocks.Tests.Impl
+namespace andri.Mocks.Tests.Impl
 {
 	
 	public class ReplayMockStateTests

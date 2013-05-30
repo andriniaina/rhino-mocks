@@ -1,6 +1,6 @@
 using Xunit;
 
-namespace Rhino.Mocks.Tests.MethodProblems
+namespace andri.Mocks.Tests.MethodProblems
 {
     public class MethodProblem_JPBoodhoo
     {

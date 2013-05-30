@@ -29,13 +29,13 @@
 #if DOTNET35
 using System;
 using System.Collections.Generic;
-using Rhino.Mocks.Exceptions;
-using Rhino.Mocks.Generated;
-using Rhino.Mocks.Impl.RemotingMock;
-using Rhino.Mocks.Interfaces;
+using andri.Mocks.Exceptions;
+using andri.Mocks.Generated;
+using andri.Mocks.Impl.RemotingMock;
+using andri.Mocks.Interfaces;
 
 
-namespace Rhino.Mocks
+namespace andri.Mocks
 {
 	/// <summary>
 	/// A set of extension methods that adds Arrange Act Assert mode to Rhino Mocks

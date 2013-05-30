@@ -1,8 +1,8 @@
-namespace Rhino.Mocks.Tests
+namespace andri.Mocks.Tests
 {
 	using System.IO;
 	using Xunit;
-	using Rhino.Mocks.Impl;
+	using andri.Mocks.Impl;
 
 	
 	public class TraceWriterWithStackTraceExpectationWriterFixture

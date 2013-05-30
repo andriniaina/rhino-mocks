@@ -1,7 +1,7 @@
-namespace Rhino.Mocks.Impl.RemotingMock
+namespace andri.Mocks.Impl.RemotingMock
 {
     using System;
-    using Rhino.Mocks.Interfaces;
+    using andri.Mocks.Interfaces;
     using Castle.Core.Interceptor;
 
     /// <summary>

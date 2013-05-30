@@ -28,9 +28,9 @@
 
 using System;
 using Xunit;
-using Rhino.Mocks.Interfaces;
+using andri.Mocks.Interfaces;
 
-namespace Rhino.Mocks.Tests
+namespace andri.Mocks.Tests
 {
 	
 	public class StubTest

@@ -29,11 +29,11 @@
 
 using System;
 using Xunit;
-using Rhino.Mocks.Exceptions;
-using Rhino.Mocks.Impl;
-using Rhino.Mocks.Interfaces;
+using andri.Mocks.Exceptions;
+using andri.Mocks.Impl;
+using andri.Mocks.Interfaces;
 
-namespace Rhino.Mocks.Tests.FieldsProblem
+namespace andri.Mocks.Tests.FieldsProblem
 {
 	
 	public class UsingEvents
@@ -88,7 +88,7 @@ namespace Rhino.Mocks.Tests.FieldsProblem
 			mocks.ReplayAll();
 			
 			Assert.Throws<ExpectationViolationException>(
-				"IEventSubscriber.Hanlder(Rhino.Mocks.Tests.FieldsProblem.WithEvents, System.EventArgs); Expected #0, Actual #1.\r\nIEventSubscriber.Hanlder(Rhino.Mocks.Tests.FieldsProblem.WithEvents, System.EventArgs); Expected #1, Actual #0.",
+				"IEventSubscriber.Hanlder(andri.Mocks.Tests.FieldsProblem.WithEvents, System.EventArgs); Expected #0, Actual #1.\r\nIEventSubscriber.Hanlder(andri.Mocks.Tests.FieldsProblem.WithEvents, System.EventArgs); Expected #1, Actual #0.",
 				() => events.RaiseEvent());
 		}
 

@@ -35,10 +35,10 @@ using System.Text;
 using System.Xml;
 
 using Xunit;
-using Rhino.Mocks.Exceptions;
-using Rhino.Mocks.Interfaces;
+using andri.Mocks.Exceptions;
+using andri.Mocks.Interfaces;
 
-namespace Rhino.Mocks.Tests
+namespace andri.Mocks.Tests
 {
   
   public class MultiMocksAAA

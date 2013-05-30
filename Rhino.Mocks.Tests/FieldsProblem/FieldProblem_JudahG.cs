@@ -1,8 +1,8 @@
 using System;
 using Xunit;
-using Rhino.Mocks.Constraints;
+using andri.Mocks.Constraints;
 
-namespace Rhino.Mocks.Tests.FieldsProblem
+namespace andri.Mocks.Tests.FieldsProblem
 {
 	
 	public class FieldProblem_JudahG

@@ -1,7 +1,7 @@
-﻿namespace Rhino.Mocks.Tests.FieldsProblem
+﻿namespace andri.Mocks.Tests.FieldsProblem
 {
     using System;
-    using Rhino.Mocks.Interfaces;
+    using andri.Mocks.Interfaces;
     using Xunit;
 
     public class FieldProblem_KeithD

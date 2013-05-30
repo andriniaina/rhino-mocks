@@ -28,9 +28,9 @@
 
 
 using Xunit;
-using Rhino.Mocks.Impl;
+using andri.Mocks.Impl;
 
-namespace Rhino.Mocks.Tests.Impl
+namespace andri.Mocks.Tests.Impl
 {
 	
 	public class RangeTests

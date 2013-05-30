@@ -1,7 +1,7 @@
 ﻿using Xunit;
 using Microsoft.Practices.Unity;
 
-namespace Rhino.Mocks.Tests.FieldsProblem
+namespace andri.Mocks.Tests.FieldsProblem
 {
     
     public class FieldProblem_Bill

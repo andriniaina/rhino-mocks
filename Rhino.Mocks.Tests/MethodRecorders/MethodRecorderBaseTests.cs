@@ -31,15 +31,15 @@ using System;
 using System.Reflection;
 using Castle.Core.Interceptor;
 using Xunit;
-using Rhino.Mocks.Exceptions;
-using Rhino.Mocks.Expectations;
-using Rhino.Mocks.Impl;
-using Rhino.Mocks.Interfaces;
-using Rhino.Mocks.MethodRecorders;
-using Rhino.Mocks.Generated;
-using Rhino.Mocks.Tests.Expectations;
+using andri.Mocks.Exceptions;
+using andri.Mocks.Expectations;
+using andri.Mocks.Impl;
+using andri.Mocks.Interfaces;
+using andri.Mocks.MethodRecorders;
+using andri.Mocks.Generated;
+using andri.Mocks.Tests.Expectations;
 
-namespace Rhino.Mocks.Tests.MethodRecorders
+namespace andri.Mocks.Tests.MethodRecorders
 {
 	
 	public class MethodRecorderBaseTests

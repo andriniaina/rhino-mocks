@@ -29,7 +29,7 @@
 using System;
 using System.Runtime.InteropServices;
 
-namespace Rhino.Mocks
+namespace andri.Mocks
 {
 	internal class PlaybackModeChanger : IModeChanger
 	{

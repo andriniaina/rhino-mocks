@@ -30,13 +30,13 @@
 using System;
 using System.Reflection;
 using Xunit;
-using Rhino.Mocks.Expectations;
-using Rhino.Mocks.Impl;
-using Rhino.Mocks.Interfaces;
-using Rhino.Mocks.MethodRecorders;
-using Rhino.Mocks.Tests.Expectations;
+using andri.Mocks.Expectations;
+using andri.Mocks.Impl;
+using andri.Mocks.Interfaces;
+using andri.Mocks.MethodRecorders;
+using andri.Mocks.Tests.Expectations;
 
-namespace Rhino.Mocks.Tests.MethodRecorders
+namespace andri.Mocks.Tests.MethodRecorders
 {
 	
 	public class ProxyMethodExpectationTripletTests

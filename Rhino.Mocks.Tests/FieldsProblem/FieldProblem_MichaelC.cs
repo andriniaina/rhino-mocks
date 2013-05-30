@@ -1,9 +1,9 @@
 using System;
 using System.Collections.ObjectModel;
 using Xunit;
-using Rhino.Mocks.Interfaces;
+using andri.Mocks.Interfaces;
 
-namespace Rhino.Mocks.Tests.FieldsProblem
+namespace andri.Mocks.Tests.FieldsProblem
 {
 	
 	public class FieldProblem_MichaelC

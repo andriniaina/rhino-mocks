@@ -31,10 +31,10 @@ using System;
 using System.Reflection;
 using System.Text;
 using Castle.Core.Interceptor;
-using Rhino.Mocks.Impl;
-using Rhino.Mocks.Interfaces;
+using andri.Mocks.Impl;
+using andri.Mocks.Interfaces;
 
-namespace Rhino.Mocks.Utilities
+namespace andri.Mocks.Utilities
 {
 	/// <summary>
 	/// Utility class for working with method calls.

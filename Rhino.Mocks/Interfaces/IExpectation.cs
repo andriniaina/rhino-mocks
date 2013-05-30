@@ -32,9 +32,9 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Reflection;
 using Castle.Core.Interceptor;
-using Rhino.Mocks.Impl;
+using andri.Mocks.Impl;
 
-namespace Rhino.Mocks.Interfaces
+namespace andri.Mocks.Interfaces
 {
 	/// <summary>
 	/// Interface to validate that a method call is correct.

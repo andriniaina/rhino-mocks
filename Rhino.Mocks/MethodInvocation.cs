@@ -1,9 +1,9 @@
 using System;
 using System.Reflection;
 using Castle.Core.Interceptor;
-using Rhino.Mocks.Interfaces;
+using andri.Mocks.Interfaces;
 
-namespace Rhino.Mocks
+namespace andri.Mocks
 {
 	/// <summary>
 	/// This is a data structure that is used by 

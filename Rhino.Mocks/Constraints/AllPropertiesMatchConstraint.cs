@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Reflection;
 
-namespace Rhino.Mocks.Constraints
+namespace andri.Mocks.Constraints
 {
     internal class AllPropertiesMatchConstraint : AbstractConstraint
     {
@@ -41,7 +41,7 @@ namespace Rhino.Mocks.Constraints
         }
 
         /// <summary>
-        /// Rhino.Mocks uses this property to generate an error message.
+        /// andri.Mocks uses this property to generate an error message.
         /// </summary>
         /// <value>
         /// A message telling the tester why the constraint failed.

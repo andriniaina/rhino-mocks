@@ -30,12 +30,12 @@
 using System;
 using System.Reflection;
 using Castle.Core.Interceptor;
-using Rhino.Mocks.Constraints;
-using Rhino.Mocks.Impl;
-using Rhino.Mocks.Interfaces;
-using Rhino.Mocks.Utilities;
+using andri.Mocks.Constraints;
+using andri.Mocks.Impl;
+using andri.Mocks.Interfaces;
+using andri.Mocks.Utilities;
 
-namespace Rhino.Mocks.Expectations
+namespace andri.Mocks.Expectations
 {
 	/// <summary>
 	/// Expect the method's arguments to match the contraints

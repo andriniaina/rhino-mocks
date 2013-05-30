@@ -1,9 +1,9 @@
 using System.Collections.Generic;
-using Rhino.Mocks.Impl.Invocation.Actions;
-using Rhino.Mocks.Impl.Invocation.Specifications;
-using Rhino.Mocks.Interfaces;
+using andri.Mocks.Impl.Invocation.Actions;
+using andri.Mocks.Impl.Invocation.Specifications;
+using andri.Mocks.Interfaces;
 
-namespace Rhino.Mocks.Impl.Invocation
+namespace andri.Mocks.Impl.Invocation
 {
     ///<summary>
     ///</summary>

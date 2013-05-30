@@ -30,7 +30,7 @@
 using System;
 using Castle.Core.Interceptor;
 
-namespace Rhino.Mocks.Utilities
+namespace andri.Mocks.Utilities
 {
 	/// <summary>
 	/// Utility to get the default value for a type

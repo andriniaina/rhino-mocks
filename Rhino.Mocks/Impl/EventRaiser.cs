@@ -31,10 +31,10 @@ using System;
 using System.Collections.Generic;
 using System.Reflection;
 using System.Text;
-using Rhino.Mocks.Interfaces;
-using Rhino.Mocks.Utilities;
+using andri.Mocks.Interfaces;
+using andri.Mocks.Utilities;
 
-namespace Rhino.Mocks.Impl
+namespace andri.Mocks.Impl
 {
 	/// <summary>
 	/// Raise events for all subscribers for an event

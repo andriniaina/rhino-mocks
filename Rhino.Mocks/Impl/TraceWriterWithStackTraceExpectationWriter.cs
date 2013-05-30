@@ -1,6 +1,6 @@
 using System;
 
-namespace Rhino.Mocks.Impl
+namespace andri.Mocks.Impl
 {
 	using System.Diagnostics;
 	using System.IO;

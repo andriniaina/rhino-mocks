@@ -29,7 +29,7 @@
 
 using System;
 
-namespace Rhino.Mocks.Interfaces
+namespace andri.Mocks.Interfaces
 {
     /// <summary>
     /// Raise events for all subscribers for an event

@@ -32,11 +32,11 @@ using System.Collections.Generic;
 using System.Reflection;
 using System.Text;
 using Castle.Core.Interceptor;
-using Rhino.Mocks.Impl;
-using Rhino.Mocks.Interfaces;
-using Rhino.Mocks.Utilities;
+using andri.Mocks.Impl;
+using andri.Mocks.Interfaces;
+using andri.Mocks.Utilities;
 
-namespace Rhino.Mocks.Expectations
+namespace andri.Mocks.Expectations
 {
     /// <summary>
     /// Abstract class that holds common information for 

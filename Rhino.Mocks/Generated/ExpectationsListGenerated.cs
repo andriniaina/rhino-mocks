@@ -29,9 +29,9 @@
 
 using System;
 using System.Collections;
-using Rhino.Mocks.Interfaces;
+using andri.Mocks.Interfaces;
 
-namespace Rhino.Mocks.Generated
+namespace andri.Mocks.Generated
 {
 
      /// <summary>

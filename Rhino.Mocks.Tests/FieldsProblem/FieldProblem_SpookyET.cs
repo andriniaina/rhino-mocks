@@ -33,7 +33,7 @@ using System.Net;
 using System.Text;
 using Xunit;
 
-namespace Rhino.Mocks.Tests.FieldsProblem
+namespace andri.Mocks.Tests.FieldsProblem
 {
     
     public class FieldProblem_SpookyET : IDisposable

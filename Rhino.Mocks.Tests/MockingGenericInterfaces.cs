@@ -32,7 +32,7 @@ using System.Collections.Generic;
 using System.Text;
 using Xunit;
 
-namespace Rhino.Mocks.Tests
+namespace andri.Mocks.Tests
 {
     
     public class MockingGenericInterfaces : IDisposable

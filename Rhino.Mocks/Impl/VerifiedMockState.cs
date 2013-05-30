@@ -30,10 +30,10 @@
 using System;
 using System.Reflection;
 using Castle.Core.Interceptor;
-using Rhino.Mocks.Interfaces;
+using andri.Mocks.Interfaces;
 using Castle.DynamicProxy;
 
-namespace Rhino.Mocks.Impl
+namespace andri.Mocks.Impl
 {
 	/// <summary>
 	/// Throw an object already verified when accessed

@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Rhino.Mocks.Constraints
+namespace andri.Mocks.Constraints
 {
 	/// <summary>
 	/// Provides a dummy field to pass as out or ref argument.

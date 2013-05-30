@@ -1,4 +1,4 @@
-namespace Rhino.Mocks
+namespace andri.Mocks
 {
 	/// <summary>
 	/// This class defines a lot of method signatures, which we will use

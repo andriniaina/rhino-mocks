@@ -30,10 +30,10 @@
 using System;
 using System.Reflection;
 using Xunit;
-using Rhino.Mocks.Impl;
-using Rhino.Mocks.MethodRecorders;
+using andri.Mocks.Impl;
+using andri.Mocks.MethodRecorders;
 
-namespace Rhino.Mocks.Tests.MethodRecorders
+namespace andri.Mocks.Tests.MethodRecorders
 {
 	
 	public class ProxyMethodPairTests

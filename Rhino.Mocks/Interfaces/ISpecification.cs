@@ -1,4 +1,4 @@
-namespace Rhino.Mocks.Impl.InvocationSpecifications
+namespace andri.Mocks.Impl.InvocationSpecifications
 {
     ///<summary>
     ///</summary>

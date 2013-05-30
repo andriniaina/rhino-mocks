@@ -29,9 +29,9 @@
 
 using System;
 using Xunit;
-using Rhino.Mocks.Exceptions;
+using andri.Mocks.Exceptions;
 
-namespace Rhino.Mocks.Tests
+namespace andri.Mocks.Tests
 {
 	
 	public class DynamicMockTests : IDisposable

@@ -32,11 +32,11 @@ using System.Collections;
 using System.Reflection;
 using Castle.Core.Interceptor;
 using Xunit;
-using Rhino.Mocks.Exceptions;
-using Rhino.Mocks.Impl;
-using Rhino.Mocks.Interfaces;
+using andri.Mocks.Exceptions;
+using andri.Mocks.Impl;
+using andri.Mocks.Interfaces;
 
-namespace Rhino.Mocks.Tests
+namespace andri.Mocks.Tests
 {
 	
 	public class ExtendingRhinoMocksFixture

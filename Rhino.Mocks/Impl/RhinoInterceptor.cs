@@ -32,16 +32,16 @@ using System;
 using System.Collections.Generic;
 using System.Runtime.CompilerServices;
 using Castle.Core.Interceptor;
-using Rhino.Mocks.Impl.Invocation;
-using Rhino.Mocks.Impl.Invocation.Actions;
-using Rhino.Mocks.Impl.Invocation.Specifications;
-using Rhino.Mocks.Interfaces;
+using andri.Mocks.Impl.Invocation;
+using andri.Mocks.Impl.Invocation.Actions;
+using andri.Mocks.Impl.Invocation.Specifications;
+using andri.Mocks.Interfaces;
 
-namespace Rhino.Mocks.Impl.InvocationSpecifications
+namespace andri.Mocks.Impl.InvocationSpecifications
 {
 }
 
-namespace Rhino.Mocks.Impl
+namespace andri.Mocks.Impl
 {
     /// <summary>
     /// Summary description for RhinoInterceptor.

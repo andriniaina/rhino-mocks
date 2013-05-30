@@ -33,7 +33,7 @@ using System.Net.Mail;
 using System.Text;
 using Xunit;
 
-namespace Rhino.Mocks.Tests.FieldsProblem
+namespace andri.Mocks.Tests.FieldsProblem
 {
 	
 	public class FieldProblem_Jeffrey

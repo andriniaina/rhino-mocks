@@ -1,6 +1,6 @@
 ﻿using NUnit.Framework;
 
-namespace Rhino.Mocks.GettingStarted
+namespace andri.Mocks.GettingStarted
 {
     [TestFixture]
     public class Stubs

@@ -1,9 +1,9 @@
 using System;
 using System.Reflection;
 using Castle.Core.Interceptor;
-using Rhino.Mocks.Impl.InvocationSpecifications;
+using andri.Mocks.Impl.InvocationSpecifications;
 
-namespace Rhino.Mocks.Impl.Invocation.Specifications
+namespace andri.Mocks.Impl.Invocation.Specifications
 {
     ///<summary>
     ///</summary>

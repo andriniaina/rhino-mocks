@@ -29,12 +29,12 @@
 
 using System;
 using System.Text;
-using Rhino.Mocks;
+using andri.Mocks;
 using System.Data;
 using Xunit;
-using Rhino.Mocks.Exceptions;
+using andri.Mocks.Exceptions;
 
-namespace Rhino.Mocks.Tests
+namespace andri.Mocks.Tests
 {
 
 	public class Metric : IMetric
@@ -111,8 +111,8 @@ namespace Rhino.Mocks.Tests
 
 			using (m_objMockRepository.Ordered())
 			{
-				Rhino.Mocks.Expect.Call(m_objIApplication.IMetricBroker).Return(m_objIMetricBroker);
-				Rhino.Mocks.Expect.Call(m_objIMetricBroker.FetchMetric("Risk")).Return(m_objDSRatioMetric);
+				andri.Mocks.Expect.Call(m_objIApplication.IMetricBroker).Return(m_objIMetricBroker);
+				andri.Mocks.Expect.Call(m_objIMetricBroker.FetchMetric("Risk")).Return(m_objDSRatioMetric);
 			}
 			m_objMockRepository.ReplayAll();
 
@@ -131,8 +131,8 @@ namespace Rhino.Mocks.Tests
 
 			using (m_objMockRepository.Ordered())
 			{
-				Rhino.Mocks.Expect.Call(m_objIApplication.IMetricBroker).Return(m_objIMetricBroker);
-				Rhino.Mocks.Expect.Call(m_objIMetricBroker.FetchMetric(lOtherID)).Return(objDSOtherMetric);
+				andri.Mocks.Expect.Call(m_objIApplication.IMetricBroker).Return(m_objIMetricBroker);
+				andri.Mocks.Expect.Call(m_objIMetricBroker.FetchMetric(lOtherID)).Return(objDSOtherMetric);
 			}
 			m_objMockRepository.ReplayAll();
 

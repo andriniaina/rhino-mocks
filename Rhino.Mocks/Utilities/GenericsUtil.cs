@@ -31,7 +31,7 @@ using System;
 using System.Collections.Generic;
 using Castle.Core.Interceptor;
 
-namespace Rhino.Mocks.Utilities
+namespace andri.Mocks.Utilities
 {
 	/// <summary>
 	/// Utility class for dealing with messing generics scenarios.

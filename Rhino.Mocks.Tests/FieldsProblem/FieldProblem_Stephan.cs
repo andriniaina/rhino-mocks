@@ -1,9 +1,9 @@
 using System;
 using System.Collections.Generic;
 using Xunit;
-using Rhino.Mocks;
+using andri.Mocks;
 
-namespace Rhino.Mocks.Tests.FieldsProblem
+namespace andri.Mocks.Tests.FieldsProblem
 {
 	using Exceptions;
 

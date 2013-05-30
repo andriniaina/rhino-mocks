@@ -30,7 +30,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Rhino.Mocks.Interfaces
+namespace andri.Mocks.Interfaces
 {
 	using System.Reflection;
 

@@ -28,9 +28,9 @@
 
 
 using System.Collections;
-using Rhino.Mocks.Constraints;
+using andri.Mocks.Constraints;
 
-namespace Rhino.Mocks.Constraints
+namespace andri.Mocks.Constraints
 {
 	/*
 	 * class: List

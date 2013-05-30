@@ -30,9 +30,9 @@
 using System;
 using System.Runtime.InteropServices;
 using Xunit;
-using Rhino.Mocks.Exceptions;
+using andri.Mocks.Exceptions;
 
-namespace Rhino.Mocks.Tests.FieldsProblem
+namespace andri.Mocks.Tests.FieldsProblem
 {
 	
 	public class FieldProblem_Aharon
@@ -61,7 +61,7 @@ namespace Rhino.Mocks.Tests.FieldsProblem
 			Accepter accepter = mocks.StrictMock<Accepter>();
 			mocks.ReplayAll();
 			Assert.Throws<ExpectationViolationException>(
-				"Accepter.Accept(Rhino.Mocks.Tests.FieldsProblem.Accepter); Expected #0, Actual #1.",
+				"Accepter.Accept(andri.Mocks.Tests.FieldsProblem.Accepter); Expected #0, Actual #1.",
 				() => accepter.Accept(accepter));
 
 		}

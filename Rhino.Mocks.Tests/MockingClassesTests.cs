@@ -31,9 +31,9 @@ using System;
 using System.Diagnostics;
 using System.IO;
 using Xunit;
-using Rhino.Mocks.Interfaces;
+using andri.Mocks.Interfaces;
 
-namespace Rhino.Mocks.Tests
+namespace andri.Mocks.Tests
 {
 	
 	public class MockingClassesTests
@@ -111,7 +111,7 @@ namespace Rhino.Mocks.Tests
 		    catch (ArgumentException argumentException)
 		    {
                 Assert.Contains(
-					"Can not instantiate proxy of class: Rhino.Mocks.Tests.MockingClassesTests+OverLoadedCtor",
+					"Can not instantiate proxy of class: andri.Mocks.Tests.MockingClassesTests+OverLoadedCtor",
 					argumentException.Message);
 		    }			
 		}

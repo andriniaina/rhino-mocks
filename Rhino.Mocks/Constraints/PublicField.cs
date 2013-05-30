@@ -1,7 +1,7 @@
 using System;
-using Rhino.Mocks.Constraints;
+using andri.Mocks.Constraints;
 
-namespace Rhino.Mocks.Constraints
+namespace andri.Mocks.Constraints
 {
     /*
      * Class: PublicField

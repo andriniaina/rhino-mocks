@@ -30,12 +30,12 @@
 using System;
 using System.Reflection;
 using Xunit;
-using Rhino.Mocks.Expectations;
-using Rhino.Mocks.Impl;
-using Rhino.Mocks.Interfaces;
-using Rhino.Mocks.Tests.Expectations;
+using andri.Mocks.Expectations;
+using andri.Mocks.Impl;
+using andri.Mocks.Interfaces;
+using andri.Mocks.Tests.Expectations;
 
-namespace Rhino.Mocks.Tests.Impl
+namespace andri.Mocks.Tests.Impl
 {
 	
 	public class RecordMockStateTests
@@ -85,7 +85,7 @@ namespace Rhino.Mocks.Tests.Impl
             MockRepository mocks = new MockRepository();
             RecordMockState recordState = new RecordMockState(new ProxyInstance(mocks, typeof(IAnimal)), mocks);
         	Assert.Throws<InvalidOperationException>(
-        		"This action is invalid when the mock object {Rhino.Mocks.Tests.IAnimal} is in record state.",
+        		"This action is invalid when the mock object {andri.Mocks.Tests.IAnimal} is in record state.",
         		() => recordState.Verify());
         }
 
@@ -94,7 +94,7 @@ namespace Rhino.Mocks.Tests.Impl
             MockRepository mocks = new MockRepository();
             RecordMockState recordState = new RecordMockState(new ProxyInstance(mocks, typeof(IAnimal), typeof(IDemo)), mocks);
         	Assert.Throws<InvalidOperationException>(
-        		"This action is invalid when the mock object {Rhino.Mocks.Tests.IAnimal, Rhino.Mocks.Tests.IDemo} is in record state.",
+        		"This action is invalid when the mock object {andri.Mocks.Tests.IAnimal, andri.Mocks.Tests.IDemo} is in record state.",
         		() => recordState.Verify());
         }
 

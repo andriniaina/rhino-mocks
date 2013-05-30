@@ -29,7 +29,7 @@
 
 using System;
 
-namespace Rhino.Mocks.Impl
+namespace andri.Mocks.Impl
 {
 	/// <summary>
 	/// Options for special repeat option

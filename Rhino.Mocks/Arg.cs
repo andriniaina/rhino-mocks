@@ -2,9 +2,9 @@ using System;
 #if DOTNET35
 using System.Linq.Expressions;
 #endif
-using Rhino.Mocks.Constraints;
+using andri.Mocks.Constraints;
 
-namespace Rhino.Mocks
+namespace andri.Mocks
 {
 	/// <summary>
 	/// Defines constraints and return values for arguments of a mock.
@@ -54,7 +54,7 @@ namespace Rhino.Mocks
 		/// </example>
 		public static T Matches<TPredicate>(Predicate<TPredicate> predicate)
 		{
-			ArgManager.AddInArgument(Rhino.Mocks.Constraints.Is.Matching<TPredicate>(predicate));
+			ArgManager.AddInArgument(andri.Mocks.Constraints.Is.Matching<TPredicate>(predicate));
 			return default(T);
 		}
 #endif

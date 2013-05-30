@@ -1,7 +1,7 @@
 using Xunit;
-using Rhino.Mocks.Tests.Model;
+using andri.Mocks.Tests.Model;
 
-namespace Rhino.Mocks.Tests.FieldsProblem
+namespace andri.Mocks.Tests.FieldsProblem
 {
 	
 	public class FieldProblem_Rabashani

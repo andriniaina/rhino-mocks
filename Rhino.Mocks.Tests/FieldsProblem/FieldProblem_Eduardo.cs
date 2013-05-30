@@ -1,5 +1,5 @@
 #if DOTNET35
-namespace Rhino.Mocks.Tests.FieldsProblem
+namespace andri.Mocks.Tests.FieldsProblem
 {
 	using Xunit;
 
