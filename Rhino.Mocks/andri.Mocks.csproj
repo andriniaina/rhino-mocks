@@ -16,7 +16,7 @@
     <RootNamespace>andri.Mocks</RootNamespace>
     <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
     <SignAssembly>true</SignAssembly>
-    <AssemblyOriginatorKeyFile>..\ayende-open-source.snk</AssemblyOriginatorKeyFile>
+    <AssemblyOriginatorKeyFile>..\andri.snk</AssemblyOriginatorKeyFile>
     <FileUpgradeFlags>
     </FileUpgradeFlags>
     <OldToolsVersion>3.5</OldToolsVersion>
@@ -301,6 +301,9 @@
     <Compile Include="With.cs" />
     <Compile Include="CompatabilityWith2.0.cs" />
     <Compile Include="__ProtectAttribute.cs" />
+    <None Include="..\andri.snk">
+      <Link>andri.snk</Link>
+    </None>
     <None Include="..\ayende-open-source.snk">
       <Link>ayende-open-source.snk</Link>
     </None>

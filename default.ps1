@@ -31,7 +31,7 @@ task Init -depends Clean {
 		-product "Andri Mocks $version" `
 		-version $version `
 		-copyright "Hibernating Rhinos & Ayende Rahien 2004 - 2009, Andriniaina 2013" `
-		-internalsVisibleTo "andri.Mocks.Tests, PublicKey=00240000048000009400000006020000002400005253413100040000010001009d1cf4b75b7218b141ac64c15450141b1e5f41f6a302ac717ab9761fa6ae2c3ee0c354c22d0a60ac59de41fa285d572e7cf33c320aa7ff877e2b7da1792fcc6aa4eb0b4d8294a2f74cb14d03fb9b091f751d6dc49e626d74601692c99eab7718ed76a40c36d39af842be378b677e6e4eae973f643d7065241ad86ecc156d81ab"
+		-internalsVisibleTo "andri.Mocks.Tests, PublicKey=00240000048000009400000006020000002400005253413100040000010001005fb7b21de512d535a34d89bcd37d59b2be38cbe1a7b9170de93532b84d47709cc8f15e02aa7de27d1114658052af52775fd02330a38e82637dbe18c1658ff2ecbe8e3ecd4878d0f12d8fc66a6aa89501a2f2458b5d8c8f41a8f24302737c124d584e11d50c5806e5f8e7021fde9db7aabc3926b0b8d21e4c91b07ba2030dfab0"
 		
 	Generate-Assembly-Info `
 		-file "$base_dir\Rhino.Mocks.Tests\Properties\AssemblyInfo.cs" `
@@ -51,7 +51,8 @@ task Init -depends Clean {
 		-product "Andri Mocks Tests Model $version" `
 		-version $version `
 		-clsCompliant "false" `
-		-copyright "Hibernating Rhinos & Ayende Rahien 2004 - 2009, Andriniaina 2013"
+		-copyright "Hibernating Rhinos & Ayende Rahien 2004 - 2009, Andriniaina 2013" `
+		-internalsVisibleTo "andri.Mocks.Tests, PublicKey=00240000048000009400000006020000002400005253413100040000010001005fb7b21de512d535a34d89bcd37d59b2be38cbe1a7b9170de93532b84d47709cc8f15e02aa7de27d1114658052af52775fd02330a38e82637dbe18c1658ff2ecbe8e3ecd4878d0f12d8fc66a6aa89501a2f2458b5d8c8f41a8f24302737c124d584e11d50c5806e5f8e7021fde9db7aabc3926b0b8d21e4c91b07ba2030dfab0"
 	
 	Generate-Assembly-Info `
 		-file "$base_dir\Rhino.Mocks.GettingStarted\Properties\AssemblyInfo.cs" `
@@ -97,7 +98,7 @@ task Merge {
 		Castle.Core.dll `
 		/out:andri.Mocks.dll `
 		/t:library `
-		"/keyfile:$base_dir\ayende-open-source.snk" `
+		"/keyfile:$base_dir\andri.snk" `
 		"/internalize:$base_dir\ilmerge.exclude"
 	if ($lastExitCode -ne 0) {
         throw "Error: Failed to merge assemblies!"
